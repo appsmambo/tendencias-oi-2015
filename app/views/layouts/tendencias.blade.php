@@ -24,6 +24,7 @@
 		
 		<link rel="icon" href="{{url()}}/favicon.ico" type="image/x-icon">
 		<link rel="stylesheet" type="text/css" href="{{url()}}/scripts/tendencias/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="{{url()}}/scripts/tendencias/jquery.bxslider/jquery.bxslider.css">
 		<link rel="stylesheet" type="text/css" href="{{url()}}/css/tendencias.css">
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -46,6 +47,8 @@
 		</script>
 		<script src="{{url()}}/scripts/jquery.min.js"></script>
 		<script src="{{url()}}/scripts/tendencias/bootstrap.min.js"></script>
+		<script src="{{url()}}/scripts/tendencias/jquery.bxslider/jquery.bxslider.min.js"></script>
+		<script src="{{url()}}/scripts/tendencias.js"></script>
 	</head>
 	<body>
 		<header class="container-fluid">
@@ -61,6 +64,50 @@
 				</div>
 			</section>
 		</header>
+		<section class="container-fluid slider-tendencias">
+			<div class="slider1">
+				<div class="slide">
+					<a href="#" class="hover">
+						<img src="{{url()}}/images/extra-normal.jpg" alt="">
+					</a>
+				</div>
+				<div class="slide">
+					<a href="#" class="hover">
+						<img src="{{url()}}/images/masculine.jpg" alt="">
+					</a>
+				</div>
+				<div class="slide">
+					<a href="#" class="hover">
+						<img src="{{url()}}/images/metalicos.jpg" alt="">
+					</a>
+				</div>
+				<div class="slide">
+					<a href="#" class="hover">
+						<img src="{{url()}}/images/animal-print.jpg" alt="">
+					</a>
+				</div>
+				<div class="slide">
+					<a href="#" class="hover">
+						<img src="{{url()}}/images/cuadros.jpg" alt="">
+					</a>
+				</div>
+				<div class="slide">
+					<a href="#" class="hover">
+						<img src="{{url()}}/images/bohemio.jpg" alt="">
+					</a>
+				</div>
+				<div class="slide">
+					<a href="#" class="hover">
+						<img src="{{url()}}/images/militar.jpg" alt="">
+					</a>
+				</div>
+				<div class="slide">
+					<a href="#" class="hover">
+						<img src="{{url()}}/images/tomboy.jpg" alt="">
+					</a>
+				</div>
+			</div>
+		</section>
 		@yield('content')
 	</body>
 </html>
