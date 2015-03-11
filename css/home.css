@@ -15,14 +15,14 @@ a:hover {
 	color:#000;
 	text-decoration:none
 }
-a img {
+a.hover {
 	opacity:0.75;
-	transition:opacity .25s ease-in-out;
-	-moz-transition:opacity .25s ease-in-out;
-	-webkit-transition:opacity .25s ease-in-out;
+	transition:opacity .5s linear;
+	-moz-transition:opacity .5s linear;
+	-webkit-transition:opacity .5s linear;
 }
-a img:focus,
-a img:hover {
+a.hover:focus,
+a.hover:hover {
 	opacity:1
 }
 .container-menu {
@@ -109,11 +109,11 @@ a img:hover {
 	body {
 		background-color:#fff
 	}
-	a img {
+	a.hover {
 		opacity:1
 	}
-	a img:focus,
-	a img:hover {
+	a.hover:focus,
+	a.hover:hover {
 		opacity:1
 	}
 	.row > [class*='col-'] {

@@ -82,7 +82,7 @@
 						<img src="{{url()}}/images/home/elige-ser-tu-misma.jpg" class="img-responsive center-block" alt="">
 					</div>
 					<div class="col-sm-2">
-						<a href="#">
+						<a href="#" class="hhover">
 							<img src="{{url()}}/images/home/extra-normal.jpg" class="img-responsive center-block" alt="">
 						</a>
 					</div>
@@ -93,19 +93,19 @@
 						<img src="{{url()}}/images/home/menu.png" class="img-responsive center-block" alt="">
 						<div>
 							<p>
-								<a href="#">
+								<a href="#" class="hhover">
 									HOME
 								</a>
 								<br>
-								<a href="#">
+								<a href="#" class="hhover">
 									TENDENCIAS
 								</a>
 								<br>
-								<a href="#">
+								<a href="#" class="hover">
 									VIDEO
 								</a>
 								<br>
-								<a href="#">
+								<a href="#" class="hover">
 									CONCURSO
 								</a>
 							</p>
@@ -128,13 +128,13 @@
 						</a>
 					</div>
 					<div class="col-sm-1">
-						<a href="#">
+						<a href="#" class="hover">
 							<img src="{{url()}}/images/home/must.jpg" class="img-responsive center-block" alt="">
 						</a>
 						<img src="{{url()}}/images/home/tu-eliges-1.jpg" class="img-responsive hidden-xs center-block" alt="">
 					</div>
 					<div class="col-sm-2">
-						<a href="#">
+						<a href="#" class="hover">
 							<img src="{{url()}}/images/home/participa-y-gana.jpg" class="img-responsive center-block" alt="">
 						</a>
 						<img src="{{url()}}/images/home/tu-eliges-2.jpg" class="img-responsive hidden-xs center-block" alt="">
