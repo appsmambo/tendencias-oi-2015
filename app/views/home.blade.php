@@ -82,7 +82,7 @@
 						<img src="{{url()}}/images/home/elige-ser-tu-misma.jpg" class="img-responsive center-block" alt="">
 					</div>
 					<div class="col-sm-2">
-						<a href="#" class="hhover">
+						<a href="#" class="hover">
 							<img src="{{url()}}/images/home/extra-normal.jpg" class="img-responsive center-block" alt="">
 						</a>
 					</div>
@@ -93,11 +93,11 @@
 						<img src="{{url()}}/images/home/menu.png" class="img-responsive center-block" alt="">
 						<div>
 							<p>
-								<a href="#" class="hhover">
+								<a href="#" class="hover">
 									HOME
 								</a>
 								<br>
-								<a href="#" class="hhover">
+								<a href="#" class="hover">
 									TENDENCIAS
 								</a>
 								<br>
@@ -111,10 +111,10 @@
 							</p>
 							<hr>
 							<p class="redes">
-								<a href="#">
+								<a href="#" class="hover">
 									<img src="{{url()}}/images/twitter.png" alt="">
 								</a>
-								<a href="#">
+								<a href="#" class="hover">
 									<img src="{{url()}}/images/facebook.png" alt="">
 								</a>
 							</p>
@@ -123,7 +123,7 @@
 				</div>
 				<div class="row">
 					<div class="col-sm-4">
-						<a href="#">
+						<a href="#" class="hover">
 							<img src="{{url()}}/images/home/tendecias-2015-video.jpg" class="img-responsive center-block" alt="">
 						</a>
 					</div>
