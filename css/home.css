@@ -1,0 +1,163 @@
+html, body {
+	height:100%
+}
+body {
+	background-color:#000
+}
+a {
+	color:#000;
+	display:block;
+	font-size:23px;
+	text-decoration:none
+}
+a:focus,
+a:hover {
+	color:#000;
+	text-decoration:none
+}
+a img {
+	opacity:0.75;
+	transition:opacity .25s ease-in-out;
+	-moz-transition:opacity .25s ease-in-out;
+	-webkit-transition:opacity .25s ease-in-out;
+}
+a img:focus,
+a img:hover {
+	opacity:1
+}
+.container-menu {
+	background-color:#fff;
+	position:relative
+}
+.container-menu div {
+	height:100%;
+	left:0;
+	padding:11% 0 0 ;
+	position:absolute;
+	top:0;
+	width:100%
+}
+.container-menu p {
+	text-align:center
+}
+.container-menu a {
+	display:inline-block;
+	margin-bottom:7px
+}
+.container-menu p.redes a {
+	margin-right:30px
+}
+.container-menu p.redes a:last-child {
+	margin-right:0
+}
+.container-menu hr {
+	background-color:transparent;
+	background-image:url('../images/linea.png');
+	background-repeat:repeat-x;
+	border:none;
+	height:1px;
+	margin-bottom:10px;
+	margin-top:10px;
+	width:65%
+}
+.jumbotron.vertical-center {
+	margin-bottom: 0; /* Remove the default bottom margin of .jumbotron */
+}
+.vertical-center {
+	min-height: 100%;  /* Fallback for vh unit */
+	min-height: 100vh; /* You might also want to use
+						  'height' property instead.
+						  
+						  Note that for percentage values of
+						  'height' or 'min-height' properties,
+						  the 'height' of the parent element
+						  should be specified explicitly.
+	
+						  In this case the parent of '.vertical-center'
+						  is the <body> element */
+
+	/* Make it a flex container */
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex; 
+
+	/* Align the bootstrap's container vertically */
+    -webkit-box-align : center;
+	-webkit-align-items : center;
+	-moz-box-align : center;
+	-ms-flex-align : center;
+	align-items : center;
+
+	/* In legacy web browsers such as Firefox 9
+	   we need to specify the width of the flex container */
+	width: 100%;
+
+	/* Also 'margin: 0 auto' doesn't have any effect on flex items in such web browsers
+	   hence the bootstrap's container won't be aligned to the center anymore.
+	
+	   Therefore, we should use the following declarations to get it centered again */
+	-webkit-box-pack : center;
+	-moz-box-pack : center;
+	-ms-flex-pack : center;
+	-webkit-justify-content : center;
+	justify-content : center;
+}
+
+@media (max-width:767px) {
+	body {
+		background-color:#fff
+	}
+	a img {
+		opacity:1
+	}
+	a img:focus,
+	a img:hover {
+		opacity:1
+	}
+	.row > [class*='col-'] {
+		border-bottom:1px solid #000
+	}
+}
+
+@media (min-width:768px) and (max-width:991px) {
+	.container-menu div {
+		padding-top:4%
+	}
+	.container-menu a {
+		font-size:14px;
+		margin-bottom:0
+	}
+	.container-menu p.redes {
+		margin-top:7px
+	}
+	.container-menu p.redes a {
+		margin-right:10px
+	}
+	.container-menu p.redes img {
+		width:75%
+	}
+	hr {
+		display:none
+	}
+}
+
+@media (min-width:992px) and (max-width:1024px) {
+	.container-menu div {
+		padding-top:6%
+	}
+	.container-menu a {
+		font-size:18px;
+		margin-bottom:0
+	}
+	.container-menu p.redes {
+		margin-top:7px
+	}
+	.container-menu p.redes a {
+		margin-right:10px
+	}
+	.container-menu p.redes img {
+		width:80%
+	}
+}
