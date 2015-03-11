@@ -7,7 +7,9 @@
 		
 		<title>Tendencias Ripley Otoño-Invierno 2015 #tueliges</title>
 		<meta name="description" content="Masculine, bohemio, militar...descubre las nuevas tendencias que te trae Ripley este Otoño Invierno 2015">
-		<link rel="canonical" href="{{url()}}/">
+		<meta name="keywords" content="tendencias, ripley, otoño invierno 2015, new york, moda, militar, tomboy, bohemio, masculine, metalicos, animal print, cuadros, mylife, tueliges">
+		
+		<link rel="canonical" href="{{url()}}">
 		<!--meta property="fb:app_id" content="242776895908289">
 		<meta property="og:title" content="Blog Ripley">
 		<meta property="og:type" content="blog">
@@ -82,7 +84,7 @@
 						<img src="{{url()}}/images/home/elige-ser-tu-misma.jpg" class="img-responsive center-block" alt="">
 					</div>
 					<div class="col-sm-2">
-						<a href="#" class="hover">
+						<a href="{{url()}}/extra-normal" class="hover">
 							<img src="{{url()}}/images/home/extra-normal.jpg" class="img-responsive center-block" alt="">
 						</a>
 					</div>
@@ -97,7 +99,7 @@
 									HOME
 								</a>
 								<br>
-								<a href="#" class="hover">
+								<a href="{{url()}}/tendencias" class="hover">
 									TENDENCIAS
 								</a>
 								<br>
