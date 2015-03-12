@@ -5,7 +5,7 @@
 		<p class="info">
 			<img src="{{url()}}/images/cuadros/logo.jpg" alt="" class="img-responsive">
 			<br>
-			DESEO EXCESIVO DE VESTIR LO QUE TENGAS A LA MANO CUANDO DESPIERTAS PORQUE ERES UNA PERSONA NORMAL Y SOLO QUIERES TENER UNA VIDA NORMAL.
+			Los cuadros en combinaciones con azul, verde y guinda son los preferidos de la temporada.
 		</p>
 		<img src="{{url()}}/images/cuadros/1.jpg" alt="" class="center-block img-responsive">
 		<img src="{{url()}}/images/cuadros/6.jpg" alt="" class="center-block img-responsive">

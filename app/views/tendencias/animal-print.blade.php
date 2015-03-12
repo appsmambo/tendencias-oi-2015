@@ -7,7 +7,7 @@
 				<p class="info">
 					<img src="{{url()}}/images/animal-print/logo.jpg" alt="" class="img-responsive">
 					<br>
-					DESEO EXCESIVO DE VESTIR LO QUE TENGAS A LA MANO CUANDO DESPIERTAS PORQUE ERES UNA PERSONA NORMAL Y SOLO QUIERES TENER UNA VIDA NORMAL.
+					Esta temporada, el print puede ser solo un detalle en tu tenida. Los estampados se usan más grandes, compleméntalos con un color camel.
 				</p>
 			</div>
 			<div class="col-sm-2">
