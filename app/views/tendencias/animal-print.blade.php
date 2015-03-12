@@ -1,5 +1,8 @@
 @extends('layouts.tendencias')
 @section('content')
+<div class="bloque-imprescindibles">
+    <img src="{{url()}}/images/imprescindible.png" alt="" class="img-responsive pull-right">
+</div>
 <div class="row">
 	<div class="col-sm-2">
 		<div class="row">

@@ -59,7 +59,7 @@ header a {
 }
 .bloque-menu {
 	background-color:#fff;
-	height:280px;
+	height:auto;
 	padding:30px 0 0;
 	position:absolute;
 	right:0;
@@ -100,6 +100,14 @@ header a {
 	position:absolute;
 	right:15px;
 	top:15px
+}
+.cerrar-tendencias {
+	position:absolute;
+	right:5px;
+	top:5px
+}
+.bloque-imprescindibles .cerrar-tendencias img{
+	width:100%;
 }
 .bloque-tendencias {
     position: relative;

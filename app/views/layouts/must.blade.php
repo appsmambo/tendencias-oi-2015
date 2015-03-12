@@ -24,7 +24,6 @@
 		
 		<link rel="icon" href="{{url()}}/favicon.ico" type="image/x-icon">
         <link rel="stylesheet" type="text/css" href="{{url()}}/scripts/tendencias/bootstrap.min.css">
-        <link rel="stylesheet" type="text/css" href="{{url()}}/scripts/fancybox/jquery.fancybox.css">
 		<link rel="stylesheet" type="text/css" href="{{url()}}/css/internas.css">
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -47,14 +46,11 @@
 		</script>
 		<script src="{{url()}}/scripts/jquery.min.js"></script>
 		<script src="{{url()}}/scripts/tendencias/bootstrap.min.js"></script>
-        <script src="{{url()}}/scripts/fancybox/jquery.fancybox.js"></script>
-        <script src="{{url()}}/scripts/fancybox/helpers/jquery.fancybox-media.js"></script>
-		<script src="{{url()}}/scripts/internas.js"></script>
 	</head>
 	<body>
 		<section class="bloque-menu" style="display:none">
 			<a href="#" class="cerrar">
-				<img src="{{url()}}/images/btn-close.png" alt="">
+				<img src="{{url()}}/images/cerrar.jpg" alt="">
 			</a>
 			<p class="text-center">
 				<a href="{{url()}}" class="hover">
@@ -88,7 +84,7 @@
                 <div class="col-xs-1"></div>
 				<div class="col-xs-2">
 					<p class="titulo text-center">
-                        @yield('titulo')
+                       <strong>MUST</strong> OTONO//INVIERNO 2015
 					</p>
 				</div>
 				<div class="col-xs-1">
@@ -98,6 +94,27 @@
 				</div>
 			</section>
 		</header>
+		<section class="container-fluid">
+			<div class="row">
+				<div class="menu-must">
+					<div class="logo-must">
+						<img src="{{url()}}/images/logo-must.png" alt="" class="center-block img-responsive">
+					</div>
+					<div class="col-sm-1">
+						<a href="camisa-blanca"><img src="{{url()}}/images/camisas-blancas.jpg" alt="" class="center-block img-responsive"></a>
+					</div>
+					<div class="col-sm-1">
+						<a href="capas-livianas"><img src="{{url()}}/images/capas-livianas.jpg" alt="" class="center-block img-responsive"></a>
+					</div>
+					<div class="col-sm-1">
+						<a href="casacas-livianas"><img src="{{url()}}/images/casacas-livianas.jpg" alt="" class="center-block img-responsive"></a>
+					</div>
+					<div class="col-sm-1">
+						<a href="cuello-tortuga"><img src="{{url()}}/images/cuello-tortuga.jpg" alt="" class="center-block img-responsive"></a>
+					</div>
+				</div>	
+			</div>
+		</section>
 		<section class="container-fluid">
 			@yield('content')
 		</section>

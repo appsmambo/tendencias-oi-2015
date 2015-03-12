@@ -59,7 +59,7 @@
 	<body>
 		<section class="bloque-menu" style="display:none">
 			<a href="#" class="cerrar">
-				<img src="{{url()}}/images/cerrar.jpg" alt="">
+				<img src="{{url()}}/images/btn-close.png" alt="">
 			</a>
 			<p class="text-center">
 				<a href="{{url()}}" class="hover">
@@ -70,7 +70,11 @@
 					TENDENCIAS
 				</a>
 				<br>
-				<a href="#" class="hover">
+				<a href="{{url()}}/imprescindibles" class="hover">
+					IMPRESCINDIBLES
+				</a>
+				<br>
+				<a href="{{url()}}/videos" class="hover">
 					VIDEO
 				</a>
 				<br>

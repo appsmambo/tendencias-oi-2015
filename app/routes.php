@@ -3,6 +3,7 @@
 Route::get('/', array('as' => 'index', 'uses' => 'HomeController@index'));
 
 Route::get('/tendencias', array('as' => 'tendencias', 'uses' => 'HomeController@extraNormal'));
+Route::get('/must', array('as' => 'tendencias', 'uses' => 'HomeController@camisaBlanca'));
 Route::get('/extra-normal', array('as' => 'extraNormal', 'uses' => 'HomeController@extraNormal'));
 Route::get('/masculine', array('as' => 'masculine', 'uses' => 'HomeController@masculine'));
 Route::get('/animal-print', array('as' => 'animalPrint', 'uses' => 'HomeController@animalPrint'));
@@ -13,3 +14,4 @@ Route::get('/tomboy', array('as' => 'tomboy', 'uses' => 'HomeController@tomboy')
 Route::get('/metalicos', array('as' => 'metalicos', 'uses' => 'HomeController@metalicos'));
 Route::get('/videos', array('as' => 'videos', 'uses' => 'HomeController@videos'));
 Route::get('/imprescindibles', array('as' => 'imprescindibles', 'uses' => 'HomeController@imprescindibles'));
+Route::get('/must/camisa-blanca', array('as' => 'camisaBlanca', 'uses' => 'HomeController@camisaBlanca'));

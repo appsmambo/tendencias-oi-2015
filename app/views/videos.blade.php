@@ -28,7 +28,7 @@
                 </div>
             </div>
         </div>
-        <div class="clear"></div>
+        <div class="clearfix"></div>
     </div>
 </div>
 <div clas="row">
@@ -51,7 +51,7 @@
             </p>
             <a class="fancybox-media" href="http://www.youtube.com/watch?v=opj24KnzrWo"><img src="{{url()}}/images/videos/4.jpg" alt="" class="center-block img-responsive"></a>
         </div>    
-        <div class="clear"></div>
+        <div class="clearfix"></div>
     </div>
 </div>
 <div clas="row">
@@ -74,7 +74,7 @@
                 </div>
             </div>
         </div>
-        <div class="clear"></div>
+        <div class="clearfix"></div>
     </div>
 </div>
 @stop

@@ -112,7 +112,7 @@
 									TENDENCIAS
 								</a>
 								<br>
-								<a href="#" class="hover">
+								<a href="{{url()}}/videos" class="hover">
 									VIDEO
 								</a>
 								<br>

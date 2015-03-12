@@ -6,4 +6,8 @@ $(document).ready(function(){
 			media : {}
 		}
 	});
+	$('.menu, .cerrar').click(function() {
+		$('.bloque-menu').toggle();
+		return false;
+	});
 });

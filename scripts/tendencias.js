@@ -21,4 +21,8 @@ $(document).ready(function(){
 		$('.bloque-menu').toggle();
 		return false;
 	});
+	$('.cerrar-tendencias').click(function() {
+		$('.bloque-imprescindibles').hide();
+		return false;
+	});
 });

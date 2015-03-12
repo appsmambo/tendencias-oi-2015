@@ -28,8 +28,49 @@ a {
 	line-height:68px;
 	margin:0
 }
-.clear{
-    clear:both;
+.bloque-menu {
+	background-color:#fff;
+	height:auto;
+	padding:30px 0 0;
+	position:absolute;
+	right:0;
+	top:0;
+	width:280px;
+	z-index:999
+}
+.bloque-menu a {
+	color:#000;
+	display:inline-block;
+	font-family:'helveticacy';
+	font-size:23px;
+	margin-bottom:7px;
+	text-decoration:none
+}
+.bloque-menu a:focus,
+.bloque-menu a:hover {
+	color:#000;
+	text-decoration:none
+}
+.bloque-menu p.redes a {
+	margin-right:30px
+}
+.bloque-menu p.redes a:last-child {
+	margin-right:0
+}
+.bloque-menu hr {
+	background-color:transparent;
+	background-image:url('../images/linea.png');
+	background-repeat:repeat-x;
+	border:none;
+	height:1px;
+	margin-bottom:10px;
+	margin-top:10px;
+	width:70%
+}
+.cerrar {
+	position:absolute;
+	right:15px;
+	top:15px
 }
 /*Videos*/
 .video-padding{
@@ -61,4 +102,21 @@ a {
 }
 .video-descripcion p.parrafo-2{
     font-size:20px;
+}
+/*Must*/
+.menu-must{
+	position:relative;
+	margin:4% 0 0 0;
+	padding:8% 0 0 0;
+}
+.logo-must{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	text-align: center;
+}
+.logo-must img{
+	position: relative;
+	z-index: 2;
 }
