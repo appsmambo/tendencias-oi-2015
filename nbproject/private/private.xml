@@ -3,20 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-<<<<<<< HEAD
-            <file>file:/C:/xampp/htdocs/tendencias-oi-2015/css/home.css</file>
-            <file>file:/C:/xampp/htdocs/tendencias-oi-2015/app/views/layouts/tendencias.blade.php</file>
-            <file>file:/C:/xampp/htdocs/tendencias-oi-2015/app/views/tendencias/bohemio.blade.php</file>
-            <file>file:/C:/xampp/htdocs/tendencias-oi-2015/app/views/tendencias/masculine.blade.php</file>
-            <file>file:/C:/xampp/htdocs/tendencias-oi-2015/app/routes.php</file>
-            <file>file:/C:/xampp/htdocs/tendencias-oi-2015/app/controllers/HomeController.php</file>
-            <file>file:/C:/xampp/htdocs/tendencias-oi-2015/app/views/tendencias/tomboy.blade.php</file>
-            <file>file:/C:/xampp/htdocs/tendencias-oi-2015/app/views/home.blade.php</file>
-            <file>file:/C:/xampp/htdocs/tendencias-oi-2015/app/views/tendencias/extra-normal.blade.php</file>
-            <file>file:/C:/xampp/htdocs/tendencias-oi-2015/app/views/tendencias/militar.blade.php</file>
-=======
             <file>file:/D:/xampp/htdocs/Ripley/tendencias-oi-2015/app/controllers/HomeController.php</file>
-            <file>file:/D:/xampp/htdocs/Ripley/tendencias-oi-2015/scripts/home/bootstrap.min.css</file>
             <file>file:/D:/xampp/htdocs/Ripley/tendencias-oi-2015/css/tendencias.css</file>
             <file>file:/D:/xampp/htdocs/Ripley/tendencias-oi-2015/app/routes.php</file>
             <file>file:/D:/xampp/htdocs/Ripley/tendencias-oi-2015/app/views/layouts/tendencias.blade.php</file>
@@ -26,7 +13,6 @@
             <file>file:/D:/xampp/htdocs/Ripley/tendencias-oi-2015/app/views/home.blade.php</file>
             <file>file:/D:/xampp/htdocs/Ripley/tendencias-oi-2015/app/views/tendencias/extra-normal.blade.php</file>
             <file>file:/D:/xampp/htdocs/Ripley/tendencias-oi-2015/scripts/tendencias.js</file>
->>>>>>> origin/master
         </group>
     </open-files>
 </project-private>

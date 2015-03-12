@@ -110,6 +110,19 @@ header a {
 .bloque-imprescindibles img{
     display: inline-block;
 }
+.bloque-prenda {
+	position:relative
+}
+.bloque-prenda p {
+	position:absolute;
+	right:28px;
+	top:15px
+}
+.bloque-prenda a {
+	display:inline-block
+}
+
+>>>>>>> origin/master
 @media (max-width:376px) {
 	header {
 		height:45px
