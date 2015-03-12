@@ -101,42 +101,42 @@
 		<section class="container-fluid slider-tendencias">
 			<div class="slider1">
 				<div class="slide">
-					<a href="#" class="hover">
+					<a href="extra-normal" class="hover">
 						<img src="{{url()}}/images/extra-normal.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="#" class="hover">
+					<a href="masculine" class="hover">
 						<img src="{{url()}}/images/masculine.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="#" class="hover">
+					<a href="metalicos" class="hover">
 						<img src="{{url()}}/images/metalicos.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="#" class="hover">
+					<a href="animal-print" class="hover">
 						<img src="{{url()}}/images/animal-print.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="#" class="hover">
+					<a href="cuadros" class="hover">
 						<img src="{{url()}}/images/cuadros.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="#" class="hover">
+					<a href="bohemio" class="hover">
 						<img src="{{url()}}/images/bohemio.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="#" class="hover">
+					<a href="militar" class="hover">
 						<img src="{{url()}}/images/militar.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="#" class="hover">
+					<a href="tomboy" class="hover">
 						<img src="{{url()}}/images/tomboy.jpg" alt="">
 					</a>
 				</div>
