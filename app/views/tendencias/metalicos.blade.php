@@ -2,10 +2,10 @@
 @section('content')
 <div class="row">
     <div class="col-sm-1">
-        <p class="info" style="font-size:30px;line-height:40px;">
+        <p class="info">
             <img src="{{url()}}/images/metalicos/logo.jpg" alt="" class="img-responsive">
             <br>
-            DESEO EXCESIVO DE VESTIR LO QUE TENGAS A LA MANO CUANDO DESPIERTAS PORQUE ERES UNA PERSONA NORMAL Y SOLO QUIERES TENER UNA VIDA NORMAL.
+            ¡No dejes de brillar! Deja que el glitter, los brillos y metalizados invadan tu clóset. Arma un look de día o de noche, informal o chic según cómo lo combines. Los metálicos destacan por su versatilidad.
         </p>
     </div>
     <div class="col-sm-1">
