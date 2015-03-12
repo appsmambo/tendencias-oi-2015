@@ -200,17 +200,17 @@
 
 @media (max-width:767px) {
 	.bx-wrapper .bx-prev {
-		background: url(images/prev.png) no-repeat
+		background:url(images/prev-mobile.png) no-repeat
 	}
 
 	.bx-wrapper .bx-next {
-		background: url(images/next.png) no-repeat
+		background:url(images/next-mobile.png) no-repeat
 	}
 
 	.bx-wrapper .bx-controls-direction a {
-		margin-top: -47px;
-		width: 46px;
-		height: 95px;
+		margin-top:-24px;
+		width:23px;
+		height:48px;
 		opacity:1
 	}
 }

@@ -90,25 +90,69 @@
 		</section>
 		<header class="container-fluid">
 			<section class="row">
-				<div class="col-sm-1">
+				<div class="col-xs-1">
 					<a href="#" class="musica" data-estado="off">
 						<img src="{{url()}}/images/icono-audio.png" alt="">
 					</a>
 				</div>
-				<div class="col-sm-2">
+				<div class="col-xs-2">
 					<p class="titulo text-center">
 						<strong>TENDENCIAS</strong> OTONO//INVIERNO 2015
 					</p>
 				</div>
-				<div class="col-sm-1">
-					<a href="#" class="menu pull-right" data-estado="off">
+				<div class="col-xs-1">
+					<a href="#" class="menu pull-right text-right" data-estado="off">
 						<img src="{{url()}}/images/icono-menu.png" alt="">
 					</a>
 				</div>
 			</section>
 		</header>
-		<section class="container-fluid slider-tendencias">
+		<section class="container-fluid slider-tendencias hidden-xs">
 			<div class="slider1">
+				<div class="slide">
+					<a href="extra-normal" class="hover">
+						<img src="{{url()}}/images/extra-normal.jpg" alt="">
+					</a>
+				</div>
+				<div class="slide">
+					<a href="masculine" class="hover">
+						<img src="{{url()}}/images/masculine.jpg" alt="">
+					</a>
+				</div>
+				<div class="slide">
+					<a href="metalicos" class="hover">
+						<img src="{{url()}}/images/metalicos.jpg" alt="">
+					</a>
+				</div>
+				<div class="slide">
+					<a href="animal-print" class="hover">
+						<img src="{{url()}}/images/animal-print.jpg" alt="">
+					</a>
+				</div>
+				<div class="slide">
+					<a href="cuadros" class="hover">
+						<img src="{{url()}}/images/cuadros.jpg" alt="">
+					</a>
+				</div>
+				<div class="slide">
+					<a href="bohemio" class="hover">
+						<img src="{{url()}}/images/bohemio.jpg" alt="">
+					</a>
+				</div>
+				<div class="slide">
+					<a href="militar" class="hover">
+						<img src="{{url()}}/images/militar.jpg" alt="">
+					</a>
+				</div>
+				<div class="slide">
+					<a href="tomboy" class="hover">
+						<img src="{{url()}}/images/tomboy.jpg" alt="">
+					</a>
+				</div>
+			</div>
+		</section>
+		<section class="container-fluid slider-tendencias visible-xs">
+			<div class="slider2">
 				<div class="slide">
 					<a href="extra-normal" class="hover">
 						<img src="{{url()}}/images/extra-normal.jpg" alt="">
@@ -154,7 +198,7 @@
 		<section class="container-fluid tu-eliges">
 			<img src="{{url()}}/images/tu-eliges.jpg" alt="" class="center-block">
 		</section>
-		<section class="container-fluid">
+		<section class="container-fluid bloque-tendencias">
 			@yield('content')
 		</section>
 		<div class="hidden">

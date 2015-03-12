@@ -98,7 +98,7 @@
 						</a>
 					</div>
 					<div class="col-sm-1">
-						<img src="{{url()}}/images/home/tendecias-2015.jpg" class="img-responsive center-block" alt="">
+						<img src="{{url()}}/images/home/tendecias-2015.jpg" class="img-responsive center-block todo-ancho" alt="">
 					</div>
 					<div class="col-sm-2 hidden-xs container-menu">
 						<img src="{{url()}}/images/home/menu.png" class="img-responsive center-block" alt="">
@@ -140,7 +140,7 @@
 					</div>
 					<div class="col-sm-1">
 						<a href="#" class="hover">
-							<img src="{{url()}}/images/home/must.jpg" class="img-responsive center-block" alt="">
+							<img src="{{url()}}/images/home/must.jpg" class="img-responsive center-block todo-ancho" alt="">
 						</a>
 						<img src="{{url()}}/images/home/tu-eliges-1.jpg" class="img-responsive hidden-xs center-block" alt="">
 					</div>
