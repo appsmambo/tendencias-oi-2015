@@ -40,12 +40,18 @@
 					percentage: true,
 					barHeight: 1,
 					minimumTime: 200,
-					fadeOutTime: 1000
+					fadeOutTime: 1000,
+					onComplete: function() {
+						var musica = document.getElementById("musica");
+						musica.volume = 0.2;
+						musica.play();
+					}
 				});
 			});
 		</script>
 		<script src="{{url()}}/scripts/jquery.min.js"></script>
 		<script src="{{url()}}/scripts/home/bootstrap.min.js"></script>
+		<script src="{{url()}}/scripts/scripts.js"></script>
 	</head>
 	<body>
 		<nav class="navbar navbar-default visible-xs">
@@ -81,6 +87,9 @@
 			<section class="container-fluid children">
 				<div class="row">
 					<div class="col-sm-2">
+						<a href="#" class="musica" data-estado="off">
+							<img src="{{url()}}/images/icono-audio.png" alt="">
+						</a>
 						<img src="{{url()}}/images/home/elige-ser-tu-misma.jpg" class="img-responsive center-block" alt="">
 					</div>
 					<div class="col-sm-2">
@@ -148,6 +157,11 @@
 					</div>
 				</div>
 			</section>
+		</div>
+		<div class="hidden">
+			<audio id="musica" loop="loop" controls="controls">
+				<source src="{{url()}}/audio/musica.mp3" />
+			</audio>
 		</div>
 	</body>
 </html>

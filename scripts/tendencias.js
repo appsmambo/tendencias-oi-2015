@@ -8,4 +8,8 @@ $(document).ready(function(){
 		slideMargin:0,
 		pager:false
 	});
+	$('.menu, .cerrar').click(function() {
+		$('.bloque-menu').toggle();
+		return false;
+	});
 });

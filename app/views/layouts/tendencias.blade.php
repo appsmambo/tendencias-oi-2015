@@ -41,7 +41,12 @@
 					percentage: true,
 					barHeight: 1,
 					minimumTime: 200,
-					fadeOutTime: 1000
+					fadeOutTime: 1000,
+					onComplete: function() {
+						var musica = document.getElementById("musica");
+						musica.volume = 0.2;
+						musica.play();
+					}
 				});
 			});
 		</script>
@@ -49,9 +54,13 @@
 		<script src="{{url()}}/scripts/tendencias/bootstrap.min.js"></script>
 		<script src="{{url()}}/scripts/tendencias/jquery.bxslider/jquery.bxslider.min.js"></script>
 		<script src="{{url()}}/scripts/tendencias.js"></script>
+		<script src="{{url()}}/scripts/scripts.js"></script>
 	</head>
 	<body>
-		<section class="bloque-menu">
+		<section class="bloque-menu" style="display:none">
+			<a href="#" class="cerrar">
+				<img src="{{url()}}/images/cerrar.jpg" alt="">
+			</a>
 			<p class="text-center">
 				<a href="{{url()}}" class="hover">
 					HOME
@@ -82,7 +91,7 @@
 		<header class="container-fluid">
 			<section class="row">
 				<div class="col-sm-1">
-					<a href="#" class="audio" data-estado="off">
+					<a href="#" class="musica" data-estado="off">
 						<img src="{{url()}}/images/icono-audio.png" alt="">
 					</a>
 				</div>
@@ -92,7 +101,7 @@
 					</p>
 				</div>
 				<div class="col-sm-1">
-					<a href="#" class="menu text-right" data-estado="off">
+					<a href="#" class="menu pull-right" data-estado="off">
 						<img src="{{url()}}/images/icono-menu.png" alt="">
 					</a>
 				</div>
@@ -148,5 +157,10 @@
 		<section class="container-fluid">
 			@yield('content')
 		</section>
+		<div class="hidden">
+			<audio id="musica" loop="loop" controls="controls">
+				<source src="{{url()}}/audio/musica.mp3" />
+			</audio>
+		</div>
 	</body>
 </html>
