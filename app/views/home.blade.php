@@ -94,8 +94,8 @@
 					<div class="col-sm-2 hidden-xs container-menu">
 						<img src="{{url()}}/images/home/menu.png" class="img-responsive center-block" alt="">
 						<div>
-							<p>
-								<a href="#" class="hover">
+							<p class="text-center">
+								<a href="{{url()}}" class="hover">
 									HOME
 								</a>
 								<br>
@@ -112,7 +112,7 @@
 								</a>
 							</p>
 							<hr>
-							<p class="redes">
+							<p class="redes text-center">
 								<a href="#" class="hover">
 									<img src="{{url()}}/images/twitter.png" alt="">
 								</a>

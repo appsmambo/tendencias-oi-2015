@@ -99,32 +99,32 @@
 /* DIRECTION CONTROLS (NEXT / PREV) */
 
 .bx-wrapper .bx-prev {
-	left: 10px;
-	background: url(images/controls.png) no-repeat 0 -32px;
+	left: 0;
+	background: url(images/prev.png) no-repeat
 }
 
 .bx-wrapper .bx-next {
-	right: 10px;
-	background: url(images/controls.png) no-repeat -43px -32px;
+	right: 0;
+	background: url(images/next.png) no-repeat
 }
 
 .bx-wrapper .bx-prev:hover {
-	background-position: 0 0;
+	
 }
 
 .bx-wrapper .bx-next:hover {
-	background-position: -43px 0;
+	
 }
 
 .bx-wrapper .bx-controls-direction a {
 	position: absolute;
 	top: 50%;
-	margin-top: -16px;
+	margin-top: -47px;
 	outline: 0;
-	width: 32px;
-	height: 32px;
+	width: 46px;
+	height: 95px;
 	text-indent: -9999px;
-	z-index: 9999;
+	z-index: 9999
 }
 
 .bx-wrapper .bx-controls-direction a.disabled {
@@ -196,4 +196,21 @@
 	display: block;
 	font-size: .85em;
 	padding: 10px;
+}
+
+@media (max-width:767px) {
+	.bx-wrapper .bx-prev {
+		background: url(images/prev.png) no-repeat
+	}
+
+	.bx-wrapper .bx-next {
+		background: url(images/next.png) no-repeat
+	}
+
+	.bx-wrapper .bx-controls-direction a {
+		margin-top: -47px;
+		width: 46px;
+		height: 95px;
+		opacity:1
+	}
 }

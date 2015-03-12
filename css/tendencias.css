@@ -12,7 +12,9 @@
 	font-weight:normal;
 	font-style:normal
 }
-
+a {
+	display:block
+}
 a.hover {
 	opacity:0.75;
 	transition:opacity .5s linear;
@@ -22,6 +24,12 @@ a.hover {
 a.hover:focus,
 a.hover:hover {
 	opacity:1
+}
+header {
+	height:68px
+}
+header a {
+	line-height:68px
 }
 .slider-tendencias {
 	border-bottom:8px solid #000
@@ -37,6 +45,55 @@ a.hover:hover {
 	line-height:42px;
 	padding:40px
 }
+.audio,
+.menu {
+	margin:0 15px
+}
+.titulo {
+	font-family:'helveticacy';
+	font-size:24px;
+	line-height:68px;
+	margin:0
+}
+.bloque-menu {
+	background-color:#fff;
+	height:280px;
+	padding:30px 0 0;
+	position:absolute;
+	right:0;
+	top:0;
+	width:280px;
+	z-index:999
+}
+.bloque-menu a {
+	color:#000;
+	display:inline-block;
+	font-family:'helveticacy';
+	font-size:23px;
+	margin-bottom:7px;
+	text-decoration:none
+}
+.bloque-menu a:focus,
+.bloque-menu a:hover {
+	color:#000;
+	text-decoration:none
+}
+.bloque-menu p.redes a {
+	margin-right:30px
+}
+.bloque-menu p.redes a:last-child {
+	margin-right:0
+}
+.bloque-menu hr {
+	background-color:transparent;
+	background-image:url('../images/linea.png');
+	background-repeat:repeat-x;
+	border:none;
+	height:1px;
+	margin-bottom:10px;
+	margin-top:10px;
+	width:70%
+}
 
 @media (max-width:767px) {
 	.tu-eliges {
@@ -47,6 +104,9 @@ a.hover:hover {
 		font-size:22px;
 		line-height:24px;
 		padding:20px 10px
+	}
+	a.hover {
+		opacity:1
 	}
 }
 

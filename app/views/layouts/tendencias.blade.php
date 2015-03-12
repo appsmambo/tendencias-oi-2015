@@ -51,16 +51,50 @@
 		<script src="{{url()}}/scripts/tendencias.js"></script>
 	</head>
 	<body>
+		<section class="bloque-menu">
+			<p class="text-center">
+				<a href="{{url()}}" class="hover">
+					HOME
+				</a>
+				<br>
+				<a href="{{url()}}/tendencias" class="hover">
+					TENDENCIAS
+				</a>
+				<br>
+				<a href="#" class="hover">
+					VIDEO
+				</a>
+				<br>
+				<a href="#" class="hover">
+					CONCURSO
+				</a>
+			</p>
+			<hr>
+			<p class="redes text-center">
+				<a href="#" class="hover">
+					<img src="{{url()}}/images/twitter.png" alt="">
+				</a>
+				<a href="#" class="hover">
+					<img src="{{url()}}/images/facebook.png" alt="">
+				</a>
+			</p>
+		</section>
 		<header class="container-fluid">
 			<section class="row">
 				<div class="col-sm-1">
-					
+					<a href="#" class="audio" data-estado="off">
+						<img src="{{url()}}/images/icono-audio.png" alt="">
+					</a>
 				</div>
 				<div class="col-sm-2">
-					
+					<p class="titulo text-center">
+						<strong>TENDENCIAS</strong> OTONO//INVIERNO 2015
+					</p>
 				</div>
 				<div class="col-sm-1">
-					
+					<a href="#" class="menu text-right" data-estado="off">
+						<img src="{{url()}}/images/icono-menu.png" alt="">
+					</a>
 				</div>
 			</section>
 		</header>

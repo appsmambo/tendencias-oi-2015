@@ -1,3 +1,10 @@
+@font-face {
+	font-family:'helveticacy';
+	src:url('../fonts/helveticacy.eot');
+	src:local('☺'), url('../fonts/helveticacy.woff') format('woff'), url('../fonts/helveticacy.ttf') format('truetype'), url('../fonts/helveticacy.svg') format('svg');
+	font-weight:normal;
+	font-style:normal
+}
 html, body {
 	height:100%
 }
@@ -32,16 +39,14 @@ a.hover:hover {
 .container-menu div {
 	height:100%;
 	left:0;
-	padding:11% 0 0 ;
+	padding:11% 0 0;
 	position:absolute;
 	top:0;
 	width:100%
 }
-.container-menu p {
-	text-align:center
-}
 .container-menu a {
 	display:inline-block;
+	font-family:'helveticacy';
 	margin-bottom:7px
 }
 .container-menu p.redes a {
