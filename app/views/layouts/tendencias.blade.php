@@ -108,6 +108,11 @@
 				</div>
 			</div>
 		</section>
-		@yield('content')
+		<section class="container-fluid tu-eliges">
+			<img src="{{url()}}/images/tu-eliges.jpg" alt="" class="center-block">
+		</section>
+		<section class="container-fluid">
+			@yield('content')
+		</section>
 	</body>
 </html>
