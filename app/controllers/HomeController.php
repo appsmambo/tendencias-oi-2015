@@ -60,5 +60,47 @@ class HomeController extends BaseController {
 		return View::make('tendencias/extra-normal')
 					->with('meta', $this->_metas['extra-normal']);
 	}
+	
+	public function masculine()
+	{
+		return View::make('tendencias/masculine')
+					->with('meta', $this->_metas['masculine']);
+	}
+	
+	public function animalPrint()
+	{
+		return View::make('tendencias/animalPrint')
+					->with('meta', $this->_metas['animal-print']);
+	}
+	
+	public function cuadros()
+	{
+		return View::make('tendencias/cuadros')
+					->with('meta', $this->_metas['cuadros']);
+	}
+	
+	public function bohemio()
+	{
+		return View::make('tendencias/bohemio')
+					->with('meta', $this->_metas['bohemio']);
+	}
+	
+	public function militar()
+	{
+		return View::make('tendencias/militar')
+					->with('meta', $this->_metas['militar']);
+	}
+	
+	public function tomboy()
+	{
+		return View::make('tendencias/tomboy')
+					->with('meta', $this->_metas['tomboy']);
+	}
+	
+	public function metalicos()
+	{
+		return View::make('tendencias/metalicos')
+					->with('meta', $this->_metas['metalicos']);
+	}
 
 }
