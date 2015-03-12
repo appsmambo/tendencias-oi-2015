@@ -32,6 +32,11 @@ a.hover:focus,
 a.hover:hover {
 	opacity:1
 }
+.musica {
+	position:absolute;
+	left:15px;
+	top:15px
+}
 .container-menu {
 	background-color:#fff;
 	position:relative
