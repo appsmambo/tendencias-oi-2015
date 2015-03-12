@@ -2,10 +2,10 @@
 @section('content')
 <div class="row">
     <div class="col-sm-1">
-        <p class="info" style="font-size:30px;line-height:40px;">
+        <p class="info">
             <img src="{{url()}}/images/bohemio/logo.jpg" alt="" class="img-responsive">
             <br>
-            DESEO EXCESIVO DE VESTIR LO QUE TENGAS A LA MANO CUANDO DESPIERTAS PORQUE ERES UNA PERSONA NORMAL Y SOLO QUIERES TENER UNA VIDA NORMAL.
+            Las capas serán las infalibles del invierno, úsalas con flecos, pelos y en todas las texturas posibles. Para un look más atrevido, combínalas con prints en tonos guindas y verdosos.
         </p>
     </div>
     <div class="col-sm-2">

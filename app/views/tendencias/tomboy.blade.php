@@ -2,10 +2,10 @@
 @section('content')
 <div class="row">
     <div class="col-sm-1">
-        <p class="info" style="font-size:30px;line-height:40px;">
+        <p class="info">
             <img src="{{url()}}/images/tomboy/logo.jpg" alt="" class="img-responsive">
             <br>
-            DESEO EXCESIVO DE VESTIR LO QUE TENGAS A LA MANO CUANDO DESPIERTAS PORQUE ERES UNA PERSONA NORMAL Y SOLO QUIERES TENER UNA VIDA NORMAL.
+            ¡Los pantalones los llevas tú! El estilo masculino, rebelde y divertido será lo más trendy esta temporada: pantalones anchos, chompas oversize, abrigos masculinos, camisas y toda la típica sastrería con corte masculino.
         </p>
     </div>
     <div class="col-sm-1">
