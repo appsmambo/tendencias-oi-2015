@@ -69,7 +69,7 @@ class HomeController extends BaseController {
 	
 	public function animalPrint()
 	{
-		return View::make('tendencias/animalPrint')
+		return View::make('tendencias/animal-print')
 					->with('meta', $this->_metas['animal-print']);
 	}
 	
