@@ -15,4 +15,4 @@ Route::get('/metalicos', array('as' => 'metalicos', 'uses' => 'HomeController@me
 Route::get('/videos', array('as' => 'videos', 'uses' => 'HomeController@videos'));
 Route::get('/imprescindibles', array('as' => 'imprescindibles', 'uses' => 'HomeController@imprescindibles'));
 Route::get('/must/camisa-blanca', array('as' => 'camisaBlanca', 'uses' => 'HomeController@camisaBlanca'));
-Route::get('/must/camisa-blanca', array('as' => 'camisaBlanca', 'uses' => 'HomeController@camisaBlanca'));
+Route::get('/must/capas-livianas', array('as' => 'capasLivianas', 'uses' => 'HomeController@capasLivianas'));
