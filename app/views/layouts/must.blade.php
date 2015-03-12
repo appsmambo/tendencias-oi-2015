@@ -55,7 +55,7 @@
 	<body>
 		<section class="bloque-menu" style="display:none">
 			<a href="#" class="cerrar">
-				<img src="{{url()}}/images/cerrar.jpg" alt="">
+				<img src="{{url()}}/images/btn-close.png" alt="">
 			</a>
 			<p class="text-center">
 				<a href="{{url()}}" class="hover">
