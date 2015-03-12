@@ -101,6 +101,17 @@ header a {
 	right:15px;
 	top:15px
 }
+.bloque-prenda {
+	position:relative
+}
+.bloque-prenda p {
+	position:absolute;
+	right:28px;
+	top:15px
+}
+.bloque-prenda a {
+	display:inline-block
+}
 
 @media (max-width:376px) {
 	header {

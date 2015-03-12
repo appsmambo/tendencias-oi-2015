@@ -8,7 +8,20 @@
 			DESEO EXCESIVO DE VESTIR LO QUE TENGAS A LA MANO CUANDO DESPIERTAS PORQUE ERES UNA PERSONA NORMAL Y SOLO QUIERES TENER UNA VIDA NORMAL.
 		</p>
 		<br>
-		<img src="{{url()}}/images/extra-normal/1.jpg" alt="" class="center-block img-responsive">
+		<div class="bloque-prenda">
+			<p>
+				<a href="#">
+					<img src="{{url()}}/images/facebook-blanco.png" alt="">
+				</a>
+				<a href="#">
+					<img src="{{url()}}/images/twitter-blanco.png" alt="">
+				</a>
+				<a href="#">
+					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
+				</a>
+			</p>
+			<img src="{{url()}}/images/extra-normal/1.jpg" alt="" class="center-block img-responsive">
+		</div>
 	</div>
 	<div class="col-sm-2">
 		<div class="row">
