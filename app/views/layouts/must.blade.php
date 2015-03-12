@@ -42,7 +42,12 @@
 					minimumTime: 200,
 					fadeOutTime: 1000
 				});
+				$('.menu, .cerrar').click(function() {
+					$('.bloque-menu').toggle();
+					return false;
+				});
 			});
+			
 		</script>
 		<script src="{{url()}}/scripts/jquery.min.js"></script>
 		<script src="{{url()}}/scripts/tendencias/bootstrap.min.js"></script>

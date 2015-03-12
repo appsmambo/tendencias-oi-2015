@@ -1,6 +1,9 @@
 @extends('layouts.tendencias')
 @section('content')
 <div class="bloque-imprescindibles">
+	<a href="#" class="cerrar-tendencias">
+		<img src="{{url()}}/images/btn-close.png" alt="">
+	</a>
     <img src="{{url()}}/images/imprescindible.png" alt="" class="img-responsive pull-right">
 </div>
 <div class="row">
