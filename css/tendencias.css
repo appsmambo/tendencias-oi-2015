@@ -101,7 +101,15 @@ header a {
 	right:15px;
 	top:15px
 }
-
+.bloque-imprescindibles{
+    position:absolute;
+    right:0;
+    top:0;
+    text-align: right;
+}
+.bloque-imprescindibles img{
+    display: inline-block;
+}
 @media (max-width:376px) {
 	header {
 		height:45px

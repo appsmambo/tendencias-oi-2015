@@ -45,6 +45,16 @@ class HomeController extends BaseController {
 				'titulo' => 'Tendencia Cuadros Ripley, Otoño-Invierno 2015. #tueliges',
 				'keyword' => 'tendencia, ripley, otoño invierno 2015, cuadros, moda, new york',
 				'descripcion' => ''
+			),
+            'videos' => array(
+				'titulo' => 'Tendencia Cuadros Ripley, Otoño-Invierno 2015. #tueliges',
+				'keyword' => 'tendencia, ripley, otoño invierno 2015, cuadros, moda, new york',
+				'descripcion' => ''
+			),
+            'imprescindibles' => array(
+				'titulo' => 'Tendencia Cuadros Ripley, Otoño-Invierno 2015. #tueliges',
+				'keyword' => 'tendencia, ripley, otoño invierno 2015, cuadros, moda, new york',
+				'descripcion' => ''
 			)
 		);
 		$this->_metas = $metas;
@@ -101,6 +111,16 @@ class HomeController extends BaseController {
 	{
 		return View::make('tendencias/metalicos')
 					->with('meta', $this->_metas['metalicos']);
+	}
+    public function videos()
+	{
+		return View::make('videos')
+					->with('meta', $this->_metas['videos']);
+	}
+    public function imprescindibles()
+	{
+		return View::make('imprescindibles')
+					->with('meta', $this->_metas['imprescindibles']);
 	}
 
 }

@@ -11,3 +11,5 @@ Route::get('/bohemio', array('as' => 'bohemio', 'uses' => 'HomeController@bohemi
 Route::get('/militar', array('as' => 'militar', 'uses' => 'HomeController@militar'));
 Route::get('/tomboy', array('as' => 'tomboy', 'uses' => 'HomeController@tomboy'));
 Route::get('/metalicos', array('as' => 'metalicos', 'uses' => 'HomeController@metalicos'));
+Route::get('/videos', array('as' => 'videos', 'uses' => 'HomeController@videos'));
+Route::get('/imprescindibles', array('as' => 'imprescindibles', 'uses' => 'HomeController@imprescindibles'));
