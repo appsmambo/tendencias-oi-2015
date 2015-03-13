@@ -12,10 +12,10 @@
 						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/index-polo-rib">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1x1qJ33">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/imprescindibles/index-polo-rib&media=http://tueliges.com.pe/images/imprescindibles/1.jpg&description=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -33,10 +33,10 @@
 						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/index-sweater-volume-jean-joc-meta">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1FiNNvF">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/imprescindibles/index-sweater-volume-jean-joc-meta&media=http://tueliges.com.pe/images/imprescindibles/3.jpg&description=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -54,10 +54,10 @@
 						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/index-sweater-bujo-casaca-parky">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1b7XaD4">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/imprescindibles/index-sweater-bujo-casaca-parky&media=http://tueliges.com.pe/images/imprescindibles/6.jpg&description=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -73,10 +73,10 @@
 						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/index-casaca-moto-vestido-skuba">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1HSolwc">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/imprescindibles/index-casaca-moto-vestido-skuba&media=http://tueliges.com.pe/images/imprescindibles/7.jpg&description=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -96,10 +96,10 @@
 						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/barbados-blusa-mac-casaca-marley-jean-keila">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1Av7MAJ">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/imprescindibles/barbados-blusa-mac-casaca-marley-jean-keila&media=http://tueliges.com.pe/images/imprescindibles/2.jpg&description=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -117,10 +117,10 @@
 						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/index-cardigan-print-pantalon-fango">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1b7WE7U">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/imprescindibles/index-cardigan-print-pantalon-fango&media=http://tueliges.com.pe/images/imprescindibles/4.jpg&description=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -134,10 +134,10 @@
 						<a target="_blank" href="http://tueliges.com.pe/imprescindibles/index-polo-frase-pantalon-flaf">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1EGZKMt">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/imprescindibles/index-polo-frase-pantalon-flaf&media=http://tueliges.com.pe/images/imprescindibles/8.jpg&description=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -153,10 +153,10 @@
 						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/index-sweater-doggi-pantalon-print">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1MxWm63">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/imprescindibles/index-sweater-doggi-pantalon-print&media=http://tueliges.com.pe/images/imprescindibles/5.jpg&description=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -170,10 +170,10 @@
 						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/index-pantalon-flaf">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1EGZDk1">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="#">
+						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/imprescindibles/index-pantalon-flaf&media=http://tueliges.com.pe/images/imprescindibles/9.jpg&description=Me%20fascin%C3%B3%20este%20look%20Imprescindible%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
