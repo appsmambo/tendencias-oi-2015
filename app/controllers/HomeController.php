@@ -155,4 +155,12 @@ class HomeController extends BaseController {
 				->with('prenda', $prendas->first())
 				->with('meta', $this->_metas['extra-normal']);
 	}
+	public function verPrendaMasculine($url_prenda = 'marquis-chompa-window-pantalon-gris')
+	{
+		$prendas = Prendas::where('categoria', '=', 'masculine');
+		$prendas->where('url', '=', $url_prenda);
+		return View::make('tendencias/masculine')
+				->with('prenda', $prendas->first())
+				->with('meta', $this->_metas['masculine']);
+	}
 }
