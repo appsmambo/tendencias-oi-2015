@@ -23,8 +23,8 @@
 			</p>
 			<img src="{{url()}}/images/bohemio/1.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				IZQUIERDA: Barbados Blusa Campsie 16305685 S/.99.90 Jean Carlos 16725638 S/.129<br>
-				DERECHA: Index Sweater Morti 16489705 S/.99.90 Enterizo Retro 16393648 S/.99.90
+				IZQUIERDA: Barbados Blusa Campsie S/.99.90 16305685  / Jean Carlos S/.129 16725638 <br>
+				DERECHA: Index Sweater Morti S/.99.90 16489705  / Enterizo Retro S/.99.90 16393648 
 			</div>
 		</div>
 	</div>
@@ -45,7 +45,9 @@
 			</p>
 			<img src="{{url()}}/images/bohemio/2.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Index Blusa Esco 16399988 S/.59.90 Sweater Mosta 16394967 S/.69.90 Short Velt 16394064 S/.79.90
+				Index Blusa Esco S/.59.90 16399988 /
+				Sweater Mosta S/.69.90 16394967  /
+				Short Velt S/.79.90 16394064 
 			</div>
 		</div>
 	</div>
@@ -64,8 +66,12 @@
 			</p>
 			<img src="{{url()}}/images/bohemio/3.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				IZQUIERDA: Index Blusa Fli 16375472 S/.59.90 Blazer Long 16398334 S/.129 Jeans Hip 16469527 S/.99.90<br>
-				DERECHA: Index Vestido Berry 16393643 S/.79.90 Sweater Hef 16391009 S/.79.90 Pepe Jeans Chaleco Bartle 16725634 S/.129
+				IZQUIERDA: Index Blusa Fli S/.59.90 16375472  /
+				Blazer Long S/.129 16398334  /
+				Jeans Hip S/.99.90 16469527 <br>
+				DERECHA: Index Vestido Berry S/.79.90 16393643 /
+				Sweater Hef S/.79.90  16391009 /
+				Pepe Jeans Chaleco Bartle S/.129 16725634 
 			</div>
 		</div>
 	</div>

@@ -21,7 +21,7 @@
 					</p>
 					<img src="{{url()}}/images/imprescindibles/1.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Index Polo Rib 16537725 S/.39.90
+						Index Polo Rib S/.39.90 16537725 
 					</div>
 				</div>
             </div>
@@ -42,7 +42,7 @@
 					</p>
 					<img src="{{url()}}/images/imprescindibles/3.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Index Sweater Volume 16274674 S/.59.90 Jean Joc Meta 16497934 S/.79.90
+						Index Sweater Volume S/.59.90 16274674 / Jean Joc Meta S/.79.90 16497934 
 					</div>
 				</div>
             </div>
@@ -63,7 +63,7 @@
 					</p>
 					<img src="{{url()}}/images/imprescindibles/6.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Index Sweater Bujo 16446069 S/.59.90 Casaca Parky 16306133 S/.129
+						Index Sweater Bujo S/.59.90 16446069 / Casaca Parky S/.129 16306133 
 					</div>
 				</div>
             </div>
@@ -82,7 +82,7 @@
 					</p>
 					<img src="{{url()}}/images/imprescindibles/7.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Index Casaca Moto 16306362 S/.99.90 Vestido Skuba 16445380 S/.59.90
+						Index Casaca Moto S/.99.90 16306362 / Vestido Skuba S/.59.90 16445380 
 					</div>
 				</div>
             </div>
@@ -105,7 +105,9 @@
 					</p>
 					<img src="{{url()}}/images/imprescindibles/2.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Barbados Blusa Mac 16300390 S/.59.90 Casaca Marley 16300397 S/.129 Jean Keila 16443112 S/.99.90
+						Barbados Blusa Mac S/.59.90 16300390 / 
+						Casaca Marley S/.129 16300397  /
+						Jean Keila S/.99.90 16443112 
 					</div>
 				</div>
             </div>
@@ -126,7 +128,7 @@
 					</p>
 					<img src="{{url()}}/images/imprescindibles/4.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Index Cardigan Print 16271378 S/.69.90 Pantalón Fango 16743416 S/.59.90
+						Index Cardigan Print S/.69.90 16271378 / Pantalón Fango S/.59.90 16743416 
 					</div>
 				</div>
 				<div class="bloque-prenda">
@@ -143,7 +145,7 @@
 					</p>
 					<img src="{{url()}}/images/imprescindibles/8.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Index Polo Frase 16295818 S/.49.90 Pantalón Flaf 16290230 S/.59.90
+						Index Polo Frase S/.49.90 16295818 / Pantalón Flaf S/.59.90 16290230 
 					</div>
 				</div>
             </div>
@@ -162,7 +164,7 @@
 					</p>
 					<img src="{{url()}}/images/imprescindibles/5.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Index Sweater Doggi 16405231 S/.59.90 Pantalón Print 16411189 S/.59.90
+						Index Sweater Doggi S/.59.90  16405231 / Pantalón Print S/.59.90 16411189 
 					</div>
 				</div>
 				<div class="bloque-prenda">
@@ -179,7 +181,7 @@
 					</p>
 					<img src="{{url()}}/images/imprescindibles/9.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Index Pantalón Flaf 16290230 S/.59.90
+						Index Pantalón Flaf S/.59.90 16290230 
 					</div>
 				</div>
             </div>

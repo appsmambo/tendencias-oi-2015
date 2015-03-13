@@ -16,7 +16,7 @@
 			</p>
 			<img src="{{url()}}/images/casacas-livianas/1.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Casaca Bone 16306853 S/.169
+				Marquis Casaca Bone S/.169 16306853 
 			</div>
 		</div>
 		<div class="row">
@@ -36,7 +36,7 @@
 					</p>
 					<img src="{{url()}}/images/casacas-livianas/5.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Marquis Casaca Mila 16388025 S/.169
+						Marquis Casaca Mila S/.169 16388025 
 					</div>
 				</div>
 			</div>
@@ -55,7 +55,7 @@
 					</p>
 					<img src="{{url()}}/images/casacas-livianas/6.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Marquis Casaca Celeste 16354657 S/.169
+						Marquis Casaca Celeste S/.169 16354657 
 					</div>
 				</div>
 			</div>
@@ -77,7 +77,7 @@
 			</p>
 			<img src="{{url()}}/images/casacas-livianas/3.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Cacharel Casaca Creme 16306395 S/.199
+				Cacharel Casaca Creme S/.199 16306395 
 			</div>
 		</div>
 		<img src="{{url()}}/images/casacas-livianas/space-3.jpg" alt="" class="center-block img-responsive space-must">
@@ -95,7 +95,7 @@
 			</p>
 			<img src="{{url()}}/images/casacas-livianas/7.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Oasis Blazer Drape 16273816 S/.219
+				Oasis Blazer Drape S/.219 16273816 
 			</div>
 		</div>
 	</div>
@@ -114,7 +114,7 @@
 			</p>
 			<img src="{{url()}}/images/casacas-livianas/2.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Casaca Biker 16306844 S/.149
+				Marquis Casaca Biker S/.149 16306844 
 			</div>
 		</div>
 		<div class="bloque-prenda">
@@ -131,7 +131,7 @@
 			</p>
 			<img src="{{url()}}/images/casacas-livianas/4.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Navigata Casaca PU Largs 16291483 S/.149
+				Navigata Casaca PU Largs S/.149 16291483 
 			</div>
 		</div>
 		<div class="bloque-prenda">
@@ -148,7 +148,7 @@
 			</p>
 			<img src="{{url()}}/images/casacas-livianas/8.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Cacharel Casaca Carlota 16276533 S/.199
+				Cacharel Casaca Carlota S/.199 16276533 
 			</div>
 		</div>
 	</div>

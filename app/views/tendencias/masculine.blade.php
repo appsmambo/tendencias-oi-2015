@@ -29,7 +29,7 @@
 			</p>
 			<img src="{{url()}}/images/masculine/2.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Chompa Window 16435849 S/.129 Pantalón Gris 16706002 S/.99
+				Marquis Chompa Window S/.129 16435849 / Pantalón Gris S/.99 16706002 
 			</div>
 		</div>
 	</div>
@@ -50,7 +50,7 @@
 			</p>
 			<img src="{{url()}}/images/masculine/3.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Sweater Soho 16387873 S/.129 Culotte Gray 16354537 S/.99.90
+				Marquis Sweater Soho S/.129 16387873 / Culotte Gray S/.99.90 16354537 
 			</div>
 		</div>
 		<div class="bloque-prenda">
@@ -67,7 +67,7 @@
 			</p>
 			<img src="{{url()}}/images/masculine/5.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Index Zapato Félix 16554331 S/.59.90 Marquis Cartera Caúl 16512810 S/.129
+				Index Zapato Félix S/.59.90 16554331 /  Marquis Cartera Caúl S/.129 16512810 
 			</div>
 		</div>
 	</div>
@@ -86,7 +86,10 @@
 			</p>
 			<img src="{{url()}}/images/masculine/6.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				DERECHA: Marquis Blusa Sheer 16388007 S/.79.90 Abrigo Caro 16354537 S/.199 Short Frixo 16740844 S/.129<br>IZQUIERDA: Marquis Blusa Black 16354677 S/.129
+				DERECHA: Marquis Blusa Sheer S/.79.90 16388007 /
+				Abrigo Caro S/.199 16354537  /
+				Short Frixo 16740844 S/.129 <br>
+				IZQUIERDA: Marquis Blusa Black S/.129 16354677 
 			</div>
 		</div>
 	</div>
@@ -105,7 +108,9 @@
 			</p>
 			<img src="{{url()}}/images/masculine/4.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Polo Ciara 16347915 S/.59.90 Chaleco Long 16354687 S/.249 Pantalón Fango 16743416 S/.129
+				Marquis Polo Ciara  S/.59.90 16347915  / 
+				Chaleco Long S/.249  16354687 /
+				Pantalón Fango S/.129 16743416 
 			</div>
 		</div>
 	</div>

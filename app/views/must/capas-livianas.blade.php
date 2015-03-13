@@ -16,7 +16,7 @@
 			</p>
 			<img src="{{url()}}/images/capas-livianas/1.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Navigata Cardigan Dominga 16462084 S/.79.90
+				Navigata Cardigan Dominga S/.79.90 16462084 
 			</div>
 		</div>
 		<img src="{{url()}}/images/capas-livianas/space-2.jpg" alt="" class="center-block img-responsive space-must">
@@ -34,7 +34,7 @@
 			</p>
 			<img src="{{url()}}/images/capas-livianas/4.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Navigata Cardigan Dinora 16520485 S/.99.90
+				Navigata Cardigan Dinora S/.99.90 16520485 
 			</div>
 		</div>
 	</div>
@@ -54,7 +54,7 @@
 			</p>
 			<img src="{{url()}}/images/capas-livianas/2.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Chompa Celia 16313999 S/.99.90
+				Marquis Chompa Celia S/.99.90 16313999 
 			</div>
 		</div>
 		<img src="{{url()}}/images/capas-livianas/space-3.jpg" alt="" class="center-block img-responsive space-must">
@@ -72,7 +72,7 @@
 			</p>
 			<img src="{{url()}}/images/capas-livianas/5.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Cardigan Celina 16313990 S/.79.90
+				Marquis Cardigan Celina S/.79.90 16313990 
 			</div>
 		</div>
 	</div>
@@ -91,7 +91,7 @@
 			</p>
 			<img src="{{url()}}/images/capas-livianas/3.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Oasis Capa Plain 16406243 S/.149
+				Oasis Capa Plain S/.149 16406243 
 			</div>
 		</div>
 		<div class="row">
@@ -110,7 +110,7 @@
 			</p>
 			<img src="{{url()}}/images/capas-livianas/6.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Tatienne Capa Cala 16135631 S/.129
+				Tatienne Capa Cala S/.129 16135631 
 			</div>
 		</div>
 			</div>
@@ -130,7 +130,7 @@
 			</p>
 			<img src="{{url()}}/images/capas-livianas/7.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				BNX Blazer Coca 16320469 S/.129
+				BNX Blazer Coca S/.129 16320469 
 			</div>
 		</div>
 			</div>

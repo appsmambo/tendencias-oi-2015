@@ -26,7 +26,7 @@
 			</p>
 			<img src="{{url()}}/images/metalicos/1.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Casaca Ceja 16701867 S/.299 Falda Clave 16674854 S/.129
+				Marquis Casaca Ceja S/.299 16701867 /  Falda Clave S/.129 16674854 
 			</div>
 		</div>
 	</div>
@@ -45,7 +45,9 @@
 			</p>
 			<img src="{{url()}}/images/metalicos/2.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Blusa Cupid 16674886 S/.129 Chaleco Oveja 16380087 S/.199 Jean Cabo 16743363 S/.129
+				Marquis Blusa Cupid S/.129  16674886 /
+				Chaleco Oveja S/.199 16380087  /
+				Jean Cabo S/.129 16743363 
 			</div>
 		</div>
 	</div>
@@ -69,7 +71,7 @@
 			</p>
 			<img src="{{url()}}/images/metalicos/4.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Sweater Naif 16435831 S/.69.90 Short Metal 16701872 S/.129
+				Marquis Sweater Naif S/.69.90 16435831 /  Short Metal 16701872 S/.129
 			</div>
 		</div>
 	</div>
@@ -88,7 +90,9 @@
 			</p>
 			<img src="{{url()}}/images/metalicos/5.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Index Collar Max 16650809 S/.29.90 Collar Max 16650796 S/.29.90 Marquis Zapato Mirna 16339847 S/.99.90
+				Index Collar Max S/.29.90  16650809 / 
+				Collar Max S/.29.90  16650796 /
+				Marquis Zapato Mirna S/.99.90 16339847 
 			</div>
 		</div>
 	</div>

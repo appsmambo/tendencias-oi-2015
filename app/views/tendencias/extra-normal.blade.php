@@ -22,7 +22,7 @@
 			</p>
 			<img src="{{url()}}/images/extra-normal/1.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Navigata Chompa Carola 16307856 S/.79.90 Pantalón Caracas 16323481 S/.129
+				Navigata Chompa Carola S/.79.90 16307856  / Pantalón Caracas S/.129 16323481 
 			</div>
 		</div>
 	</div>
@@ -43,7 +43,10 @@
 					</p>
 					<img src="{{url()}}/images/extra-normal/2.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Marquis Blusa Pope 16399959 S/.79.90 Chompa Carina 16469756 S/.99.90 Blazer Mila 16388025 S/.169 Pantalón Jogger 16354532 S/.129
+						Marquis Blusa Pope S/.79.90 16399959  /
+						Chompa Carina S/.99.90 16469756  /
+						Blazer Mila S/.169 16388025  /
+						Pantalón Jogger S/.129 16354532 
 					</div>
 				</div>
 			</div>
@@ -62,7 +65,7 @@
 					</p>
 					<img src="{{url()}}/images/extra-normal/3.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Marquis Polerón Besbre 16347849 S/.79.90 Pantalón Off 16740564 S/.99.90
+						Marquis Polerón Besbre S/.79.90 16347849  / Pantalón Off S/.99.90 16740564 
 					</div>
 				</div>
 			</div>
@@ -84,7 +87,11 @@
 					</p>
 					<img src="{{url()}}/images/extra-normal/6.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						IZQUIERDA: Marquis Polo Grey Marl 16430361 S/.99.90 Blazer Longline 16291665 S/.299<br>DERECHA: Marquis Polo Cami 16314475 S/.59.90 Chompa Maxi 16396045 S/.69.90 Pantalón Gris 16706002 S/.99.90
+						IZQUIERDA: Marquis Polo Grey Marl S/.99.90 16430361  /
+						Blazer Longline S/.299 16291665 <br>DERECHA: 
+						Marquis Polo Cami S/.59.90 16314475  /
+						Chompa Maxi S/.69.90 16396045  /
+						Pantalón Gris S/.99.90 16706002 
 					</div>
 				</div>
 			</div>

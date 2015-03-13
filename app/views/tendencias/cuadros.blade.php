@@ -38,8 +38,12 @@
 			</p>
 			<img src="{{url()}}/images/cuadros/6.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				IZQUIERDA: Marquis Chompa Vino 16435826 S/.99.90 Blazer Pame 16740559 S/.169 Pantalón Cuti 16674898 S/.129<br>
-				DERECHA: Marquis Polo Flock 16380106 S/.79.90 Blazer Look 16399954 S/.169 Jean Highrise 16328136 S/.99.90
+				IZQUIERDA: Marquis Chompa Vino S/.99.90 16435826 /
+				Blazer Pame S/.169 16740559  /
+				Pantalón Cuti S/.129 16674898 <br>
+				DERECHA: Marquis Polo Flock S/.79.90 16380106  /
+				Blazer Look S/.169 16399954   /
+				Jean Highrise S/.99.90 16328136 
 			</div>
 		</div>
 	</div>
@@ -58,7 +62,7 @@
 			</p>
 			<img src="{{url()}}/images/cuadros/2.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Oasis Polo Geo Texture 16405918 S/.119 Marquis Blazer Cool 16380092 S/.199
+				Oasis Polo Geo Texture S/.119 16405918 / Marquis Blazer Cool S/.199 16380092 
 			</div>
 		</div>
 		<div class="bloque-prenda">
@@ -75,7 +79,7 @@
 			</p>
 			<img src="{{url()}}/images/cuadros/4.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Vestido Cheks 16380101 S/.99.90 Casaca Blue 16379832 S/.149
+				Marquis Vestido Cheks S/.99.90 16380101  / Casaca Blue S/.149 16379832 
 			</div>
 		</div>
 	</div>
@@ -94,7 +98,7 @@
 			</p>
 			<img src="{{url()}}/images/cuadros/3.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Casaca Frata 16700666 S/.249 Pantalón Burde 16740579 S/.99.90
+				Marquis Casaca Frata S/.249 16700666  / Pantalón Burde S/.99.90 16740579 
 			</div>
 		</div>
 		<div class="bloque-prenda">
@@ -111,7 +115,7 @@
 			</p>
 			<img src="{{url()}}/images/cuadros/5.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Index Zapato Fénix 16552932 S/.59.90 Collar Maxi 5 16650780 S/.29.90
+				Index Zapato Fénix S/.59.90 16552932  / Collar Maxi 5 S/.29.90 16650780 
 			</div>
 		</div>
 	</div>
