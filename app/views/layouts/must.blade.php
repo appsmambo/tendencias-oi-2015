@@ -144,16 +144,16 @@
 						<img src="{{url()}}/images/logo-must.png" alt="" class="center-block img-responsive">
 					</div>
 					<div class="col-sm-1">
-						<a href="{{url()}}/must/camisa-blanca"><img src="{{url()}}/images/camisas-blancas.jpg" alt="" class="center-block img-responsive"></a>
+						<a href="{{url()}}/must/camisa-blanca"><img src="{{url()}}/images/camisas-blancas.jpg" alt="" class="center-block img-responsive prenda"></a>
 					</div>
 					<div class="col-sm-1">
-						<a href="{{url()}}/must/capas-livianas"><img src="{{url()}}/images/capas-livianas.jpg" alt="" class="center-block img-responsive"></a>
+						<a href="{{url()}}/must/capas-livianas"><img src="{{url()}}/images/capas-livianas.jpg" alt="" class="center-block img-responsive prenda"></a>
 					</div>
 					<div class="col-sm-1">
-						<a href="{{url()}}/must/casacas-livianas"><img src="{{url()}}/images/casacas-livianas.jpg" alt="" class="center-block img-responsive"></a>
+						<a href="{{url()}}/must/casacas-livianas"><img src="{{url()}}/images/casacas-livianas.jpg" alt="" class="center-block img-responsive prenda"></a>
 					</div>
 					<div class="col-sm-1">
-						<a href="{{url()}}/must/cuello-tortuga"><img src="{{url()}}/images/cuello-tortuga.jpg" alt="" class="center-block img-responsive"></a>
+						<a href="{{url()}}/must/cuello-tortuga"><img src="{{url()}}/images/cuello-tortuga.jpg" alt="" class="center-block img-responsive prenda"></a>
 					</div>
 				</div>	
 			</div>
