@@ -237,6 +237,13 @@ a:hover {
 		padding:3px 8px 25px!important;
 		position:inherit!important
 	}
+	.content-plomo .text-center div{
+		border: 0;
+		border-bottom: 1px solid #8d8d8d;
+	}
+	.content-plomo .text-center div.last{
+		border: 0;
+	}
 }
 @media (max-width:740px) {
 	.titulo{
