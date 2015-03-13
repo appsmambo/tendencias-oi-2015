@@ -39,7 +39,7 @@
 			</p>
 			<img src="{{url()}}/images/cuello-tortuga/2.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Sweater Camel 16727466 S/.99.90
+				Marquis Sweater Camel S/.99.90 16727466 
 			</div>
 		</div>
 		<img src="{{url()}}/images/cuello-tortuga/space-2.jpg" alt="" class="center-block img-responsive space-must">
@@ -62,7 +62,7 @@
 			</p>
 			<img src="{{url()}}/images/cuello-tortuga/4.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Sweater Side 16396063 S/.79.90
+				Marquis Sweater Side S/.79.90 16396063 
 			</div>
 		</div>
 	</div>
@@ -81,7 +81,7 @@
 			</p>
 			<img src="{{url()}}/images/cuello-tortuga/5.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Sweater Marmol 16396068 S/.79.90
+				Marquis Sweater Marmol S/.79.90 16396068 
 			</div>
 		</div>
 	</div>
@@ -100,7 +100,7 @@
 			</p>
 			<img src="{{url()}}/images/cuello-tortuga/6.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Navigata Sweater Rolling 16509940 S/.99.90
+				Navigata Sweater Rolling S/.99.90 16509940 
 			</div>
 		</div>
 	</div>

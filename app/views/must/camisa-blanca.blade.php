@@ -16,7 +16,7 @@
 			</p>
 			<img src="{{url()}}/images/camisa-blanca/1.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Navigata Blusa Elliot 16618582 S/.99.90
+				Navigata Blusa Elliot S/.99.90 16618582 
 			</div>
 		</div>
 		<img src="{{url()}}/images/camisa-blanca/space-2.jpg" alt="" class="center-block img-responsive space-must">
@@ -34,7 +34,7 @@
 			</p>
 			<img src="{{url()}}/images/camisa-blanca/4.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Cacharel Blusa Pima 16740713 S/.1290
+				Cacharel Blusa Pima S/.1290  16740713 
 			</div>
 		</div>
 	</div>
@@ -54,7 +54,7 @@
 			</p>
 			<img src="{{url()}}/images/camisa-blanca/2.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				BNX Blusa Cami 16510523 S/.59.90
+				BNX Blusa Cami S/.59.90 16510523 
 			</div>
 		</div>
 		<img src="{{url()}}/images/camisa-blanca/space-3.jpg" alt="" class="center-block img-responsive space-must">
@@ -72,7 +72,7 @@
 			</p>
 			<img src="{{url()}}/images/camisa-blanca/5.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Blusa Back 16354672 S/.99.90
+				Marquis Blusa Back S/.99.90 16354672 
 			</div>
 		</div>
 	</div>
@@ -91,7 +91,7 @@
 			</p>
 			<img src="{{url()}}/images/camisa-blanca/3.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Navigata Blusa Fefe 16736566 S/.99.90
+				Navigata Blusa Fefe S/.99.90 16736566 
 			</div>
 		</div>
 		<div class="row">
@@ -110,7 +110,7 @@
 					</p>
 					<img src="{{url()}}/images/camisa-blanca/6.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Tatienne Blusa Camisera 16734587 S/.99.90
+						Tatienne Blusa Camisera S/.99.90 16734587 
 					</div>
 				</div>
 			</div>
@@ -130,7 +130,7 @@
 					</p>
 					<img src="{{url()}}/images/camisa-blanca/7.jpg" alt="" class="center-block img-responsive prenda">
 					<div style="display:none">
-						Navigata Blusa Beck 16613317 S/.79.90
+						Navigata Blusa Beck S/.79.90 16613317 
 					</div>
 				</div>
 			</div>

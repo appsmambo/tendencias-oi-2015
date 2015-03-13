@@ -26,7 +26,9 @@
 			</p>
 			<img src="{{url()}}/images/tomboy/2.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Index Polo Shut 16299328 S/.39.90 Casaca Size 16372339 S/.159 Falda Flare 16394935 S/.69.90
+				Index Polo Shut S/.39.90 16299328   /
+				Casaca Size S/.159 16372339 /
+				Falda Flare S/.69.90 16394935 
 			</div>
 		</div>
 	</div>
@@ -45,7 +47,7 @@
 			</p>
 			<img src="{{url()}}/images/tomboy/3.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Index Polerón Sport 16379059 S/.99.90 Falda Tubo 16680809 S/.89.90
+				Index Polerón Sport S/.99.90 16379059 / Falda Tubo S/.89.90 16680809 
 			</div>
 		</div>
 	</div>
@@ -66,7 +68,7 @@
 			</p>
 			<img src="{{url()}}/images/tomboy/1.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Index Polerón Mori 16375467 S/.79.90 Leg Rolling 16497929 S/.79.90
+				Index Polerón Mori S/.79.90 16375467  Leg Rolling S/.79.90 16497929 
 			</div>
 		</div>
 	</div>
@@ -85,8 +87,8 @@
 			</p>
 			<img src="{{url()}}/images/tomboy/4.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				IZQUIERDA: Index Blusa Mel 16392271 S/.119<br>
-				DERECHA: Index Polo Rib 16392237 S/.79.90 Falda Slim 16392232 S/.59.90
+				IZQUIERDA: Index Blusa Mel S/.119 16392271 <br>
+				DERECHA: Index Polo Rib S/.79.90 16392237 / Falda Slim S/.59.90 16392232 
 			</div>
 		</div>
 	</div>
@@ -105,8 +107,11 @@
 			</p>
 			<img src="{{url()}}/images/tomboy/5.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				IZQUIERDA: Index Chaleco Joan 16392276 S/.179 Vestido Funky 16392266 S/.79.90<br>
-				DERECHA: Index Polerón Boy 16392247 S/.79.90 Blazer Jam 16453161 S/.129 Falda Leo 16392227 S/.59.90
+				IZQUIERDA: Index Chaleco Joan S/.179 16392276  /
+				Vestido Funky S/.79.90 16392266 <br>
+				DERECHA: Index Polerón Boy S/.79.90 16392247  /
+				Blazer Jam S/.129  16453161 /
+				Falda Leo S/.59.90 16392227 
 			</div>
 		</div>
 	</div>
