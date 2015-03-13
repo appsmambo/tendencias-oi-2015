@@ -3,8 +3,7 @@ $(document).ready(function(){
 		slideWidth:2000,
 		minSlides:5,
 		maxSlides:5,
-		infiniteLoop:false,
-		hideControlOnEnd:true,
+		hideControlOnEnd:false,
 		slideMargin:0,
 		pager:false
 	});
@@ -12,8 +11,6 @@ $(document).ready(function(){
 		slideWidth:1000,
 		minSlides:3,
 		maxSlides:3,
-		infiniteLoop:false,
-		hideControlOnEnd:true,
 		slideMargin:0,
 		pager:false
 	});
