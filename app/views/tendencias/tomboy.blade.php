@@ -5,6 +5,9 @@
 		<p class="info">
 			<img src="{{url()}}/images/tomboy/logo.jpg" alt="" class="img-responsive">
 			<br>
+			<span class="visible-xs">
+				<br><br><br>
+			</span>
 			¡Los pantalones los llevas tú! El estilo masculino, rebelde y divertido será lo más trendy esta temporada: pantalones anchos, chompas oversize, abrigos masculinos, camisas y toda la típica sastrería con corte masculino.
 		</p>
 	</div>

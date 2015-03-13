@@ -5,6 +5,9 @@
 		<p class="info">
 			<img src="{{url()}}/images/masculine/logo.jpg" alt="" class="img-responsive">
 			<br>
+			<span class="visible-xs">
+				<br><br>
+			</span>
 			Este invierno el Masculine se apodera de las calles. Las prendas oversize, como abrigos, blazers y blusas serán las protagonistas. No pierdas tu toque femenino con bolsos y accesorios.
 		</p>
 	</div>

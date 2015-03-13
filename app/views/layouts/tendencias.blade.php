@@ -220,7 +220,8 @@
 					<img src="{{url()}}/images/btn-close.png" alt="">
 				</a>
 				<a href="{{url()}}/imprescindibles">
-					<img src="{{url()}}/images/imprescindible.png" alt="" class="img-responsive pull-right">
+					<img src="{{url()}}/images/imprescindible.png" alt="" class="img-responsive pull-right hidden-xs">
+					<img src="{{url()}}/images/imprescindible-mobile.png" alt="" class="img-responsive pull-right visible-xs">
 				</a>
 			</div>
 			@yield('content')

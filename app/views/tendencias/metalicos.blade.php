@@ -5,6 +5,9 @@
 		<p class="info">
 			<img src="{{url()}}/images/metalicos/logo.jpg" alt="" class="img-responsive">
 			<br>
+			<span class="visible-xs">
+				<br><br>
+			</span>
 			¡No dejes de brillar! Deja que el glitter, los brillos y metalizados invadan tu clóset. Arma un look de día o de noche, informal o chic según cómo lo combines. Los metálicos destacan por su versatilidad.
 		</p>
 	</div>

@@ -5,6 +5,9 @@
         <p class="info">
             <img src="{{url()}}/images/militar/logo.jpg" alt="" class="img-responsive">
             <br>
+			<span class="visible-xs">
+				<br><br>
+			</span>
             ¡Perfecto estilismo de batalla! ¿La táctica a seguir? Probar chaquetas de aviador, abrigos y enteritos inspirados en el ejército del aire.
         </p>
         <div class="bloque-prenda">
