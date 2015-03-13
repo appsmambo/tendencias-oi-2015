@@ -100,7 +100,7 @@
 					</a>
 				</div>
 				<div class="col-xs-2">
-					<p class="titulo text-center">
+					<p class="titulo text-center titulo-tendencias">
                         <a href="{{url()}}">
 							<img src="images/titulo-tendencias.jpg" class="img-responsive center-block" />
 						</a>
