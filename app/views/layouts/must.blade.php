@@ -62,11 +62,11 @@
 					HOME
 				</a>
 				<br>
-				<a href="{{url()}}/tendencias" class="hover">
+				<a href="{{url()}}/extra-normal" class="hover">
 					TENDENCIAS
 				</a>
 				<br>
-				<a href="#" class="hover">
+				<a href="{{url()}}/videos" class="hover">
 					VIDEO
 				</a>
 				<br>

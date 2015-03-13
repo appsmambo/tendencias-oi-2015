@@ -66,7 +66,7 @@
 					HOME
 				</a>
 				<br>
-				<a href="{{url()}}/tendencias" class="hover">
+				<a href="{{url()}}/extra-normal" class="hover">
 					TENDENCIAS
 				</a>
 				<br>
@@ -101,7 +101,9 @@
 				</div>
 				<div class="col-xs-2">
 					<p class="titulo text-center">
-						<strong>TENDENCIAS</strong> OTONO//INVIERNO 2015
+						<a href="{{url()}}">
+							<strong>TENDENCIAS</strong> OTONO//INVIERNO 2015
+						</a>
 					</p>
 				</div>
 				<div class="col-xs-1">
@@ -114,17 +116,17 @@
 		<section class="container-fluid slider-tendencias hidden-xs">
 			<div class="slider1">
 				<div class="slide">
-					<a href="extra-normal" class="hover">
+					<a href="{{url()}}/extra-normal" class="hover">
 						<img src="{{url()}}/images/extra-normal.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="masculine" class="hover">
+					<a href="{{url()}}/masculine" class="hover">
 						<img src="{{url()}}/images/masculine.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="metalicos" class="hover">
+					<a href="{{url()}}/metalicos" class="hover">
 						<img src="{{url()}}/images/metalicos.jpg" alt="">
 					</a>
 				</div>
@@ -134,22 +136,22 @@
 					</a>
 				</div>
 				<div class="slide">
-					<a href="cuadros" class="hover">
+					<a href="{{url()}}/cuadros" class="hover">
 						<img src="{{url()}}/images/cuadros.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="bohemio" class="hover">
+					<a href="{{url()}}/bohemio" class="hover">
 						<img src="{{url()}}/images/bohemio.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="militar" class="hover">
+					<a href="{{url()}}/militar" class="hover">
 						<img src="{{url()}}/images/militar.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="tomboy" class="hover">
+					<a href="{{url()}}/tomboy" class="hover">
 						<img src="{{url()}}/images/tomboy.jpg" alt="">
 					</a>
 				</div>
@@ -158,42 +160,42 @@
 		<section class="container-fluid slider-tendencias visible-xs">
 			<div class="slider2">
 				<div class="slide">
-					<a href="extra-normal" class="hover">
+					<a href="{{url()}}/extra-normal" class="hover">
 						<img src="{{url()}}/images/extra-normal.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="masculine" class="hover">
+					<a href="{{url()}}/masculine" class="hover">
 						<img src="{{url()}}/images/masculine.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="metalicos" class="hover">
+					<a href="{{url()}}/metalicos" class="hover">
 						<img src="{{url()}}/images/metalicos.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="animal-print" class="hover">
+					<a href="{{url()}}/animal-print" class="hover">
 						<img src="{{url()}}/images/animal-print.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="cuadros" class="hover">
+					<a href="{{url()}}/cuadros" class="hover">
 						<img src="{{url()}}/images/cuadros.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="bohemio" class="hover">
+					<a href="{{url()}}/bohemio" class="hover">
 						<img src="{{url()}}/images/bohemio.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="militar" class="hover">
+					<a href="{{url()}}/militar" class="hover">
 						<img src="{{url()}}/images/militar.jpg" alt="">
 					</a>
 				</div>
 				<div class="slide">
-					<a href="tomboy" class="hover">
+					<a href="{{url()}}/tomboy" class="hover">
 						<img src="{{url()}}/images/tomboy.jpg" alt="">
 					</a>
 				</div>
@@ -203,6 +205,14 @@
 			<img src="{{url()}}/images/tu-eliges.jpg" alt="" class="center-block">
 		</section>
 		<section class="container-fluid bloque-tendencias">
+			<div class="bloque-imprescindibles">
+				<a href="#" class="cerrar-tendencias">
+					<img src="{{url()}}/images/btn-close.png" alt="">
+				</a>
+				<a href="{{url()}}/imprescindibles">
+					<img src="{{url()}}/images/imprescindible.png" alt="" class="img-responsive pull-right">
+				</a>
+			</div>
 			@yield('content')
 		</section>
 		<div class="hidden">
