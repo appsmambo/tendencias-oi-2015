@@ -102,7 +102,7 @@
 				<div class="col-xs-2">
 					<p class="titulo text-center">
 						<a href="{{url()}}">
-							<strong>TENDENCIAS</strong> OTONO//INVIERNO 2015
+							<img src="images/titulo-tendencias.jpg" class="img-responsive center-block" />
 						</a>
 					</p>
 				</div>

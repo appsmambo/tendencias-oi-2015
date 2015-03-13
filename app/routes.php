@@ -18,3 +18,4 @@ Route::get('/must/camisa-blanca', array('as' => 'camisaBlanca', 'uses' => 'HomeC
 Route::get('/must/capas-livianas', array('as' => 'capasLivianas', 'uses' => 'HomeController@capasLivianas'));
 Route::get('/must/casacas-livianas', array('as' => 'casacasLivianas', 'uses' => 'HomeController@casacasLivianas'));
 Route::get('/must/cuello-tortuga', array('as' => 'cuelloTortuga', 'uses' => 'HomeController@cuelloTortuga'));
+Route::get('/participa-gana', array('as' => 'participaGana', 'uses' => 'HomeController@participaGana'));

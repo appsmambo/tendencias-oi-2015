@@ -76,6 +76,11 @@ class HomeController extends BaseController {
 				'titulo' => 'Tendencia Cuadros Ripley, Otoño-Invierno 2015. #tueliges',
 				'keyword' => 'tendencia, ripley, otoño invierno 2015, cuadros, moda, new york',
 				'descripcion' => ''
+			),
+			'participa-gana' => array(
+				'titulo' => 'Tendencia Cuadros Ripley, Otoño-Invierno 2015. #tueliges',
+				'keyword' => 'tendencia, ripley, otoño invierno 2015, cuadros, moda, new york',
+				'descripcion' => ''
 			)
 		);
 		$this->_metas = $metas;
@@ -163,5 +168,10 @@ class HomeController extends BaseController {
 	{
 		return View::make('must/cuello-tortuga')
 					->with('meta', $this->_metas['cuello-tortuga']);
+	}
+	public function participaGana()
+	{
+		return View::make('participa-gana')
+					->with('meta', $this->_metas['participa-gana']);
 	}
 }

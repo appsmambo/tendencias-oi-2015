@@ -89,7 +89,9 @@
                 <div class="col-xs-1"></div>
 				<div class="col-xs-2">
 					<p class="titulo text-center">
-                       <strong>MUST</strong> OTONO//INVIERNO 2015
+                       <a href="{{url()}}">
+							<img src="images/titulo-tendencias.jpg" class="img-responsive center-block" />
+						</a>
 					</p>
 				</div>
 				<div class="col-xs-1">

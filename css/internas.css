@@ -127,3 +127,52 @@ a:hover {
 	position: relative;
 	z-index: 2;
 }
+/*Participa y Gana*/
+.content-plomo{
+	background:#dadada;
+	font-size: 22px;
+	margin:4% 0 0 0;
+}
+.content-plomo .text-center{
+	padding-top:4%;
+	padding-bottom:4%;
+}
+.content-plomo .text-center div{
+	margin:0;
+	padding:4.5% 0 0 0;
+	height:200px;
+	border-right:1px solid #8d8d8d;
+	font-weight: bold;
+}
+.content-plomo .text-center div p{
+	display: table;
+	height:120px;
+	margin:10px 0 0 0;
+	padding:0;
+	overflow: hidden;
+	width: 100%;
+	line-height: 26px;
+}
+.content-plomo .text-center div p span{
+	display: table-cell;
+	vertical-align: middle;
+}
+.content-plomo .text-center div p span a{
+	display: inline-block;
+}
+.content-plomo .text-center div.last{
+	border-right: 0;
+}
+.content-plomo .text-center div.last p{
+	line-height: 32px;
+}
+.content-catalogo{
+	margin:4% 0 0 0;
+}
+.content-catalogo p{
+	margin:3% 0;
+	padding:0;
+	font-size:25px;
+	line-height: 40px;
+	font-weight: bold;
+}
