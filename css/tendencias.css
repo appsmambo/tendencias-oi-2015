@@ -158,7 +158,9 @@ header a {
 .bloque-prenda a {
 	display:inline-block
 }
-
+.prenda{
+	width:100%
+}
 @media (max-width:376px) {
 	header {
 		height:45px

@@ -84,15 +84,11 @@ a:hover {
 .video-padding{
     padding:0 4.5%;
 }
-.logo-video{
-    padding-top:2.7%;
-    padding-bottom:2.7%;
-}
 .content-videos{
     margin:5% 0 2.7% 0;
 }
 .video-padding p{
-    padding:0 0 0 10px;
+    padding:0 0 0 0;
     margin:0 0 3% 0;
 }
 .video-padding p.opacity{

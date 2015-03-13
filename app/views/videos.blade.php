@@ -2,7 +2,7 @@
 @section('content')
 <div class="row">
     <div class="col-sm-2 col-sm-offset-1 logo-video">
-        <img src="{{url()}}/images/videos/logo.png" alt="" class="center-block img-responsive">
+        <img src="{{url()}}/images/videos/elige-ser-tu-misma.jpg" alt="" class="center-block img-responsive">
     </div>
 </div>
 <div clas="row">
