@@ -24,4 +24,12 @@ $(document).ready(function(){
 		}
 		return false;
 	});
+	$('.bloque-prenda').hover(
+		function() {
+			$('div', this).fadeIn();
+		},
+		function() {
+			$('div', this).fadeOut();
+		}
+	);
 });

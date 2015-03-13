@@ -38,9 +38,9 @@
 				<p>
 					<span>
 						Y compártelo en <br>    
-						<a href=""><img src="{{url()}}/images/participa-gana/twitter.png" alt=""></a>
+						<img src="{{url()}}/images/participa-gana/twitter.png" alt="">
 						o 
-						<a href=""><img src="{{url()}}/images/participa-gana/instagram.png" ></a><br>
+						<img src="{{url()}}/images/participa-gana/instagram.png" alt=""><br>
 						con el hashtag<br>
 						<img src="{{url()}}/images/participa-gana/tu-eliges.png" alt="">
 					</span>
@@ -54,10 +54,12 @@
 	<div class="content-catalogo">
 		<div class="sm-1"></div>
 		<div class="sm-2 text-center">
-			<a href="#" target="_blank"><img src="{{url()}}/images/participa-gana/btn-catalogo-online.jpg" class="img-responsive center-block" alt=""></a>
+			<a href="{{url()}}/extra-normal"><img src="{{url()}}/images/participa-gana/btn-catalogo-online.jpg" class="img-responsive center-block" alt=""></a>
 			<p>
 				para ganar uno de los 10 vales de s./500 que sorteamos<br>
-				¡Anímate a participar!
+				¡Anímate a participar!<br><br>
+				ver <a href="{{url()}}/docs/terminos-y-condiciones.pdf" target="_blank"><strong>Términos y condiciones</strong></a>
+				<br>
 			</p>
 		</div>
 	</div>

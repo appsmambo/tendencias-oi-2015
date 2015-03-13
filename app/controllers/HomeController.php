@@ -55,6 +55,31 @@ class HomeController extends BaseController {
 				'titulo' => 'Videos Tendencias Ripley Otoño-Invierno 2015 #tueliges',
 				'keyword' => 'tendencias, ripley, otoño invierno 2015, moda, mylife, tueliges, new york, comercial, making of',
 				'descripcion' => 'Mira nuestro nuevo comercial de tendencias Otoño-Invierno 2015 #tueliges'
+			),
+			'imprescindibles' => array(
+				'titulo' => 'Videos Tendencias Ripley Otoño-Invierno 2015 #tueliges',
+				'keyword' => 'tendencias, ripley, otoño invierno 2015, moda, mylife, tueliges, new york, comercial, making of',
+				'descripcion' => 'Mira nuestro nuevo comercial de tendencias Otoño-Invierno 2015 #tueliges'
+			),
+			'must-camisa-blanca' => array(
+				'titulo' => 'Videos Tendencias Ripley Otoño-Invierno 2015 #tueliges',
+				'keyword' => 'tendencias, ripley, otoño invierno 2015, moda, mylife, tueliges, new york, comercial, making of',
+				'descripcion' => 'Mira nuestro nuevo comercial de tendencias Otoño-Invierno 2015 #tueliges'
+			),
+			'must-capas-livianas' => array(
+				'titulo' => 'Videos Tendencias Ripley Otoño-Invierno 2015 #tueliges',
+				'keyword' => 'tendencias, ripley, otoño invierno 2015, moda, mylife, tueliges, new york, comercial, making of',
+				'descripcion' => 'Mira nuestro nuevo comercial de tendencias Otoño-Invierno 2015 #tueliges'
+			),
+			'must-casacas-livianas' => array(
+				'titulo' => 'Videos Tendencias Ripley Otoño-Invierno 2015 #tueliges',
+				'keyword' => 'tendencias, ripley, otoño invierno 2015, moda, mylife, tueliges, new york, comercial, making of',
+				'descripcion' => 'Mira nuestro nuevo comercial de tendencias Otoño-Invierno 2015 #tueliges'
+			),
+			'must-cuello-tortuga' => array(
+				'titulo' => 'Videos Tendencias Ripley Otoño-Invierno 2015 #tueliges',
+				'keyword' => 'tendencias, ripley, otoño invierno 2015, moda, mylife, tueliges, new york, comercial, making of',
+				'descripcion' => 'Mira nuestro nuevo comercial de tendencias Otoño-Invierno 2015 #tueliges'
 			)
 		);
 		$this->_metas = $metas;
@@ -162,5 +187,13 @@ class HomeController extends BaseController {
 		return View::make('tendencias/masculine')
 				->with('prenda', $prendas->first())
 				->with('meta', $this->_metas['masculine']);
+	}
+	public function verPrendaImprescindibles($url_prenda = 'index-polo-rib')
+	{
+		$prendas = Prendas::where('categoria', '=', 'imprescindibles');
+		$prendas->where('url', '=', $url_prenda);
+		return View::make('imprescindibles')
+				->with('prenda', $prendas->first())
+				->with('meta', $this->_metas['imprescindibles']);
 	}
 }

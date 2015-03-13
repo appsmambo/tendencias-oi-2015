@@ -9,13 +9,13 @@
             <div class="col-sm-2">
 				<div class="bloque-prenda">
 					<p>
-						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda">
+						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/index-polo-rib">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1ByxbOJ">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda&media=http://tueliges.com.pe/images/animal-print/4.jpg&description=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -30,13 +30,13 @@
             <div class="col-sm-4">
 				<div class="bloque-prenda">
 					<p>
-						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda">
+						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/index-sweater-volume-jean-joc-meta">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1ByxbOJ">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda&media=http://tueliges.com.pe/images/animal-print/4.jpg&description=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -51,13 +51,13 @@
             <div class="col-sm-2">
 				<div class="bloque-prenda">
 					<p>
-						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda">
+						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/index-sweater-bujo-casaca-parky">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1ByxbOJ">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda&media=http://tueliges.com.pe/images/animal-print/4.jpg&description=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -70,13 +70,13 @@
             <div class="col-sm-2">
 				<div class="bloque-prenda">
 					<p>
-						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda">
+						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/index-casaca-moto-vestido-skuba">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1ByxbOJ">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda&media=http://tueliges.com.pe/images/animal-print/4.jpg&description=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -93,13 +93,13 @@
             <div class="col-sm-4">
 				<div class="bloque-prenda">
 					<p>
-						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda">
+						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/barbados-blusa-mac-casaca-marley-jean-keila">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1ByxbOJ">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda&media=http://tueliges.com.pe/images/animal-print/4.jpg&description=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -114,13 +114,13 @@
             <div class="col-sm-2">
 				<div class="bloque-prenda">
 					<p>
-						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda">
+						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/index-cardigan-print-pantalon-fango">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1ByxbOJ">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda&media=http://tueliges.com.pe/images/animal-print/4.jpg&description=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -131,13 +131,13 @@
 				</div>
 				<div class="bloque-prenda">
 					<p>
-						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda">
+						<a target="_blank" href="http://tueliges.com.pe/imprescindibles/index-polo-frase-pantalon-flaf">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1ByxbOJ">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda&media=http://tueliges.com.pe/images/animal-print/4.jpg&description=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -150,13 +150,13 @@
             <div class="col-sm-2">
 				<div class="bloque-prenda">
 					<p>
-						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda">
+						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/index-sweater-doggi-pantalon-print">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1ByxbOJ">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda&media=http://tueliges.com.pe/images/animal-print/4.jpg&description=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>
@@ -167,13 +167,13 @@
 				</div>
 				<div class="bloque-prenda">
 					<p>
-						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda">
+						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/imprescindibles/index-pantalon-flaf">
 							<img src="{{url()}}/images/facebook-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1ByxbOJ">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/twitter-interna.png" alt="">
 						</a>
-						<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/animal-print/marquis-sweater-cami-abrigo-fur-falda-cuerda&media=http://tueliges.com.pe/images/animal-print/4.jpg&description=Me%20fascin%C3%B3%20este%20look%20Animal%20Print%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+						<a target="_blank" href="#">
 							<img src="{{url()}}/images/pinterest-interna.png" alt="">
 						</a>
 					</p>

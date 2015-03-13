@@ -77,7 +77,7 @@
 					<ul class="nav navbar-nav">
 						<li class="active"><a href="{{url()}}">Home <span class="sr-only">(current)</span></a></li>
 						<li><a href="{{url()}}/extra-normal">Tendencias</a></li>
-						<li><a href="{{url()}}/videos">Video</a></li>
+						<li><a href="#">Video</a></li>
 						<li><a href="{{url()}}/concurso">Concurso</a></li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Síguenos <span class="caret"></span></a>
@@ -120,7 +120,7 @@
 									TENDENCIAS
 								</a>
 								<br>
-								<a href="{{url()}}/videos">
+								<a href="#">
 									VIDEO
 								</a>
 								<br>
@@ -142,7 +142,7 @@
 				</div>
 				<div class="row">
 					<div class="col-sm-4">
-						<a href="{{url()}}/videos" class="hover">
+						<a href="#" class="hover">
 							<img src="{{url()}}/images/home/tendecias-2015-video.jpg" class="img-responsive center-block" alt="">
 						</a>
 					</div>

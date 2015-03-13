@@ -31,3 +31,7 @@ Route::get('/bohemio/{url_prenda}', 'HomeController@verPrendaBohemio');
 Route::get('/militar/{url_prenda}', 'HomeController@verPrendaMilitar');
 Route::get('/tomboy/{url_prenda}', 'HomeController@verPrendaTomboy');
 Route::get('/metalicos/{url_prenda}', 'HomeController@verPrendaMetalicos');
+
+Route::get('/imprescindibles/{url_prenda}', 'HomeController@verPrendaImprescindibles');
+
+

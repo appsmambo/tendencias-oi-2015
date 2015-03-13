@@ -98,7 +98,7 @@
 					TENDENCIAS
 				</a>
 				<br>
-				<a href="{{url()}}/videos">
+				<a href="#">
 					VIDEO
 				</a>
 				<br>

@@ -228,6 +228,15 @@ a:hover {
 		position:inherit;
 		margin-bottom: 4%;
 	}
+	.bloque-prenda div {
+		background-color:#fff!important;
+		background-image:none!important;
+		color:#000!important;
+		display:block!important;
+		font-size:11px!important;
+		padding:3px 8px 25px!important;
+		position:inherit!important
+	}
 }
 @media (max-width:740px) {
 	.titulo{
