@@ -25,4 +25,12 @@ $(document).ready(function(){
 		$('.bloque-imprescindibles').hide();
 		return false;
 	});
+	$('.bloque-prenda').hover(
+		function() {
+			$('div', this).fadeIn();
+		},
+		function() {
+			$('div', this).fadeOut();
+		}
+	);
 });

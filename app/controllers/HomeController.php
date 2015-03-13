@@ -2,6 +2,7 @@
 
 class HomeController extends BaseController {
 	var $_metas;
+	var $_prendas;
 	
 	public function __construct()
 	{
@@ -78,6 +79,7 @@ class HomeController extends BaseController {
 			)
 		);
 		$this->_metas = $metas;
+		$this->_prendas = new Prendas();
 	}
 
 	public function index()
