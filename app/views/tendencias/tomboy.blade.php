@@ -11,14 +11,14 @@
 	<div class="col-sm-1">
 		<div class="bloque-prenda">
 			<p>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/facebook-blanco.png" alt="">
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/tomboy/index-polo-shut-casaca-size-falda-flare">
+					<img src="{{url()}}/images/facebook-interna.png" alt="">
 				</a>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/twitter-blanco.png" alt="">
+				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Tomboy%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1HOAYZd">
+					<img src="{{url()}}/images/twitter-interna.png" alt="">
 				</a>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
+				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/tomboy/index-polo-shut-casaca-size-falda-flare&media=http://tueliges.com.pe/images/tomboy/2.jpg&description=Me%20fascin%C3%B3%20este%20look%20Tomboy%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+					<img src="{{url()}}/images/pinterest-interna.png" alt="">
 				</a>
 			</p>
 			<img src="{{url()}}/images/tomboy/2.jpg" alt="" class="center-block img-responsive">
@@ -30,14 +30,14 @@
 	<div class="col-sm-2">
 		<div class="bloque-prenda">
 			<p>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/facebook-blanco.png" alt="">
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/tomboy/index-poleron-sport-falda-tubo">
+					<img src="{{url()}}/images/facebook-interna.png" alt="">
 				</a>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/twitter-blanco.png" alt="">
+				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Tomboy%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/19fBTXf">
+					<img src="{{url()}}/images/twitter-interna.png" alt="">
 				</a>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
+				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/tomboy/index-poleron-sport-falda-tubo&media=http://tueliges.com.pe/images/tomboy/3.jpg&description=Me%20fascin%C3%B3%20este%20look%20Tomboy%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+					<img src="{{url()}}/images/pinterest-interna.png" alt="">
 				</a>
 			</p>
 			<img src="{{url()}}/images/tomboy/3.jpg" alt="" class="center-block img-responsive">
@@ -51,13 +51,13 @@
 	<div class="col-sm-1">
 		<div class="bloque-prenda">
 			<p>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/tomboy/index-poleron-mori-leg-rolling">
 					<img src="{{url()}}/images/facebook-blanco.png" alt="">
 				</a>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Tomboy%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1DcQorx">
 					<img src="{{url()}}/images/twitter-blanco.png" alt="">
 				</a>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/tomboy/index-poleron-mori-leg-rolling&media=http://tueliges.com.pe/images/tomboy/1.jpg&description=Me%20fascin%C3%B3%20este%20look%20Tomboy%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
 				</a>
 			</p>
@@ -70,13 +70,13 @@
 	<div class="col-sm-2">
 		<div class="bloque-prenda">
 			<p>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/tomboy/index-blusa-mel">
 					<img src="{{url()}}/images/facebook-blanco.png" alt="">
 				</a>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Tomboy%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1AiLovh">
 					<img src="{{url()}}/images/twitter-blanco.png" alt="">
 				</a>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/tomboy/index-blusa-mel&media=http://tueliges.com.pe/images/tomboy/4.jpg&description=Me%20fascin%C3%B3%20este%20look%20Tomboy%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
 				</a>
 			</p>
@@ -90,14 +90,14 @@
 	<div class="col-sm-1">
 		<div class="bloque-prenda">
 			<p>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/facebook-blanco.png" alt="">
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/tomboy/index-chaleco-joan-vestido-funky">
+					<img src="{{url()}}/images/facebook-interna.png" alt="">
 				</a>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/twitter-blanco.png" alt="">
+				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Tomboy%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1GKWe4u">
+					<img src="{{url()}}/images/twitter-interna.png" alt="">
 				</a>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
+				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/tomboy/index-chaleco-joan-vestido-funky&media=http://tueliges.com.pe/images/tomboy/5.jpg&description=Me%20fascin%C3%B3%20este%20look%20Tomboy%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+					<img src="{{url()}}/images/pinterest-interna.png" alt="">
 				</a>
 			</p>
 			<img src="{{url()}}/images/tomboy/5.jpg" alt="" class="center-block img-responsive">

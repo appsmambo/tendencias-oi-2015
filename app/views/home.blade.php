@@ -50,6 +50,15 @@
 		<script src="{{url()}}/scripts/jquery.min.js"></script>
 		<script src="{{url()}}/scripts/home/bootstrap.min.js"></script>
 		<script src="{{url()}}/scripts/scripts.js"></script>
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-60722801-1', 'auto');
+			ga('require', 'displayfeatures');
+			ga('send', 'pageview');
+		</script>
 	</head>
 	<body>
 		<nav class="navbar navbar-default visible-xs">
@@ -68,12 +77,12 @@
 						<li class="active"><a href="{{url()}}">Home <span class="sr-only">(current)</span></a></li>
 						<li><a href="{{url()}}/extra-normal">Tendencias</a></li>
 						<li><a href="{{url()}}/videos">Video</a></li>
-						<li><a href="#">Concurso</a></li>
+						<li><a href="{{url()}}/concurso">Concurso</a></li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Síguenos <span class="caret"></span></a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="#">Twitter</a></li>
-								<li><a href="#">Facebook</a></li>
+								<li><a href="https://twitter.com/ripleyenperu" target="_blank">Twitter</a></li>
+								<li><a href="https://www.facebook.com/RipleyPeru" target="_blank">Facebook</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -102,28 +111,28 @@
 						<img src="{{url()}}/images/home/menu.png" class="img-responsive center-block" alt="">
 						<div>
 							<p class="text-center">
-								<a href="{{url()}}" >
+								<a href="{{url()}}">
 									HOME
 								</a>
 								<br>
-								<a href="{{url()}}/extra-normal" >
+								<a href="{{url()}}/extra-normal">
 									TENDENCIAS
 								</a>
 								<br>
-								<a href="{{url()}}/videos" >
+								<a href="{{url()}}/videos">
 									VIDEO
 								</a>
 								<br>
-								<a href="#" >
+								<a href="{{url()}}/concurso">
 									CONCURSO
 								</a>
 							</p>
 							<hr>
 							<p class="redes text-center">
-								<a href="#" >
+								<a href="https://twitter.com/ripleyenperu" target="_blank">
 									<img src="{{url()}}/images/twitter.png" alt="">
 								</a>
-								<a href="#" >
+								<a href="https://www.facebook.com/RipleyPeru" target="_blank">
 									<img src="{{url()}}/images/facebook.png" alt="">
 								</a>
 							</p>
@@ -137,13 +146,13 @@
 						</a>
 					</div>
 					<div class="col-sm-1">
-						<a href="#" class="hover">
+						<a href="{{url()}}/must" class="hover">
 							<img src="{{url()}}/images/home/must.jpg" class="img-responsive center-block todo-ancho" alt="">
 						</a>
 						<img src="{{url()}}/images/home/tu-eliges-1.jpg" class="img-responsive hidden-xs center-block" alt="">
 					</div>
 					<div class="col-sm-2">
-						<a href="#" class="hover">
+						<a href="{{url()}}/concurso" class="hover">
 							<img src="{{url()}}/images/home/participa-y-gana.jpg" class="img-responsive center-block" alt="">
 						</a>
 						<img src="{{url()}}/images/home/tu-eliges-2.jpg" class="img-responsive hidden-xs center-block" alt="">

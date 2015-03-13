@@ -15,13 +15,13 @@
 		<div class="bloque-prenda">
 			<p>
 				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/masculine/marquis-chompa-window-pantalon-gris">
-					<img src="{{url()}}/images/facebook-blanco.png" alt="">
+					<img src="{{url()}}/images/facebook-interna.png" alt="">
 				</a>
 				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Masculino%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1xioRO5">
-					<img src="{{url()}}/images/twitter-blanco.png" alt="">
+					<img src="{{url()}}/images/twitter-interna.png" alt="">
 				</a>
 				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/masculine/marquis-chompa-window-pantalon-gris&media=http://tueliges.com.pe/images/masculine/2.jpg&description=Me%20fascin%C3%B3%20este%20look%20Masculino%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
-					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
+					<img src="{{url()}}/images/pinterest-interna.png" alt="">
 				</a>
 			</p>
 			<img src="{{url()}}/images/masculine/2.jpg" alt="" class="center-block img-responsive prenda">
@@ -53,18 +53,18 @@
 		<div class="bloque-prenda">
 			<p>
 				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/masculine/index-zapato-felix-marquis-cartera-caul">
-					<img src="{{url()}}/images/facebook-blanco.png" alt="">
+					<img src="{{url()}}/images/facebook-interna.png" alt="">
 				</a>
 				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Masculino%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/18FlYR5">
-					<img src="{{url()}}/images/twitter-blanco.png" alt="">
+					<img src="{{url()}}/images/twitter-interna.png" alt="">
 				</a>
 				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/masculine/index-zapato-felix-marquis-cartera-caul&media=http://tueliges.com.pe/images/masculine/5.jpg&description=Me%20fascin%C3%B3%20este%20look%20Masculino%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
-					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
+					<img src="{{url()}}/images/pinterest-interna.png" alt="">
 				</a>
 			</p>
 			<img src="{{url()}}/images/masculine/5.jpg" alt="" class="center-block img-responsive prenda">
 			<div style="display:none">
-				Marquis Polo Ciara 16347915 S/.59.90 Chaleco Long 16354687 S/.249 Pantalón Fango 16743416 S/.129
+				Index Zapato Félix 16554331 S/.59.90 Marquis Cartera Caúl 16512810 S/.129
 			</div>
 		</div>
 	</div>

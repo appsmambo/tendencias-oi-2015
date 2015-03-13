@@ -73,6 +73,15 @@
 		</script>
 		<script src="{{url()}}/scripts/jquery.min.js"></script>
 		<script src="{{url()}}/scripts/tendencias/bootstrap.min.js"></script>
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-60722801-1', 'auto');
+			ga('require', 'displayfeatures');
+			ga('send', 'pageview');
+		</script>
 	</head>
 	<body>
 		<section class="bloque-menu" style="display:none">
@@ -80,28 +89,28 @@
 				<img src="{{url()}}/images/btn-close.png" alt="">
 			</a>
 			<p class="text-center">
-				<a href="{{url()}}" >
+				<a href="{{url()}}">
 					HOME
 				</a>
 				<br>
-				<a href="{{url()}}/extra-normal" >
+				<a href="{{url()}}/extra-normal">
 					TENDENCIAS
 				</a>
 				<br>
-				<a href="{{url()}}/videos" >
+				<a href="{{url()}}/videos">
 					VIDEO
 				</a>
 				<br>
-				<a href="#" >
+				<a href="{{url()}}/concurso">
 					CONCURSO
 				</a>
 			</p>
 			<hr>
 			<p class="redes text-center">
-				<a href="#" >
+				<a href="https://twitter.com/ripleyenperu" target="_blank">
 					<img src="{{url()}}/images/twitter.png" alt="">
 				</a>
-				<a href="#" >
+				<a href="https://www.facebook.com/RipleyPeru" target="_blank">
 					<img src="{{url()}}/images/facebook.png" alt="">
 				</a>
 			</p>
@@ -134,16 +143,16 @@
 						<img src="{{url()}}/images/logo-must.png" alt="" class="center-block img-responsive">
 					</div>
 					<div class="col-sm-1">
-						<a href="camisa-blanca"><img src="{{url()}}/images/camisas-blancas.jpg" alt="" class="center-block img-responsive"></a>
+						<a href="{{url()}}/must/camisa-blanca"><img src="{{url()}}/images/camisas-blancas.jpg" alt="" class="center-block img-responsive"></a>
 					</div>
 					<div class="col-sm-1">
-						<a href="capas-livianas"><img src="{{url()}}/images/capas-livianas.jpg" alt="" class="center-block img-responsive"></a>
+						<a href="{{url()}}/must/capas-livianas"><img src="{{url()}}/images/capas-livianas.jpg" alt="" class="center-block img-responsive"></a>
 					</div>
 					<div class="col-sm-1">
-						<a href="casacas-livianas"><img src="{{url()}}/images/casacas-livianas.jpg" alt="" class="center-block img-responsive"></a>
+						<a href="{{url()}}/must/casacas-livianas"><img src="{{url()}}/images/casacas-livianas.jpg" alt="" class="center-block img-responsive"></a>
 					</div>
 					<div class="col-sm-1">
-						<a href="cuello-tortuga"><img src="{{url()}}/images/cuello-tortuga.jpg" alt="" class="center-block img-responsive"></a>
+						<a href="{{url()}}/must/cuello-tortuga"><img src="{{url()}}/images/cuello-tortuga.jpg" alt="" class="center-block img-responsive"></a>
 					</div>
 				</div>	
 			</div>

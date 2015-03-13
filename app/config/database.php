@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'tendencias_oi_2015',
-			'username'  => 'root',
-			'password'  => '',
+			'database'  => 'ripley_tendencias_oi_2015',
+			'username'  => 'ripley_oi_2015',
+			'password'  => 'bN0OXJxBxhhKOiXz',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',

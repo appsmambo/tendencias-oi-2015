@@ -15,12 +15,13 @@ Route::get('/videos', array('as' => 'videos', 'uses' => 'HomeController@videos')
 
 Route::get('/imprescindibles', array('as' => 'imprescindibles', 'uses' => 'HomeController@imprescindibles'));
 
+Route::get('/must', array('as' => 'must', 'uses' => 'HomeController@camisaBlanca'));
 Route::get('/must/camisa-blanca', array('as' => 'camisaBlanca', 'uses' => 'HomeController@camisaBlanca'));
 Route::get('/must/capas-livianas', array('as' => 'capasLivianas', 'uses' => 'HomeController@capasLivianas'));
 Route::get('/must/casacas-livianas', array('as' => 'casacasLivianas', 'uses' => 'HomeController@casacasLivianas'));
 Route::get('/must/cuello-tortuga', array('as' => 'cuelloTortuga', 'uses' => 'HomeController@cuelloTortuga'));
 
-Route::get('/participa-gana', array('as' => 'participaGana', 'uses' => 'HomeController@participaGana'));
+Route::get('/concurso', array('as' => 'participaGana', 'uses' => 'HomeController@participaGana'));
 
 Route::get('/extra-normal/{url_prenda}', 'HomeController@verPrendaExtraNormal');
 Route::get('/masculine/{url_prenda}', 'HomeController@verPrendaMasculine');

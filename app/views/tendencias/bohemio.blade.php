@@ -11,13 +11,13 @@
 	<div class="col-sm-2">
 		<div class="bloque-prenda">
 			<p>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/bohemio/barbados-blusa-campsie-jean-carlos">
 					<img src="{{url()}}/images/facebook-blanco.png" alt="">
 				</a>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Bohemio%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1FVHe01">
 					<img src="{{url()}}/images/twitter-blanco.png" alt="">
 				</a>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/bohemio/barbados-blusa-campsie-jean-carlos&media=http://tueliges.com.pe/images/bohemio/1.jpg&description=Me%20fascin%C3%B3%20este%20look%20Bohemio%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
 				</a>
 			</p>
@@ -33,14 +33,14 @@
 	<div class="col-sm-2">
 		<div class="bloque-prenda">
 			<p>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/facebook-blanco.png" alt="">
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/bohemio/index-blusa-esco-sweater-mosta-short-velt">
+					<img src="{{url()}}/images/facebook-interna.png" alt="">
 				</a>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/twitter-blanco.png" alt="">
+				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Bohemio%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1NQQKan">
+					<img src="{{url()}}/images/twitter-interna.png" alt="">
 				</a>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
+				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/bohemio/index-blusa-esco-sweater-mosta-short-velt&media=http://tueliges.com.pe/images/bohemio/2.jpg&description=Me%20fascin%C3%B3%20este%20look%20Bohemio%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+					<img src="{{url()}}/images/pinterest-interna.png" alt="">
 				</a>
 			</p>
 			<img src="{{url()}}/images/bohemio/2.jpg" alt="" class="center-block img-responsive">
@@ -52,13 +52,13 @@
 	<div class="col-sm-2">
 		<div class="bloque-prenda">
 			<p>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/bohemio/index-blusa-fli-blazer-long-jeans-hip">
 					<img src="{{url()}}/images/facebook-blanco.png" alt="">
 				</a>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Bohemio%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1BAQhmg">
 					<img src="{{url()}}/images/twitter-blanco.png" alt="">
 				</a>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/bohemio/index-blusa-fli-blazer-long-jeans-hip&media=http://tueliges.com.pe/images/bohemio/3.jpg&description=Me%20fascin%C3%B3%20este%20look%20Bohemio%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
 				</a>
 			</p>

@@ -9,13 +9,13 @@
 		</p>
 		<div class="bloque-prenda">
 			<p>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/cuadros/cuadros/oasis-vestido-tartan-marquis-abrigo-impe">
 					<img src="{{url()}}/images/facebook-blanco.png" alt="">
 				</a>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Cuadros%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1E9Kanv">
 					<img src="{{url()}}/images/twitter-blanco.png" alt="">
 				</a>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/cuadros/cuadros/oasis-vestido-tartan-marquis-abrigo-impe&media=http://tueliges.com.pe/images/cuadros/1.jpg&description=Me%20fascin%C3%B3%20este%20look%20Cuadros%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
 				</a>
 			</p>
@@ -26,13 +26,13 @@
 		</div>
 		<div class="bloque-prenda">
 			<p>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/cuadros/cuadros/marquis-chompa-vino-blazer-pame-pantalon-cuti">
 					<img src="{{url()}}/images/facebook-blanco.png" alt="">
 				</a>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Cuadros%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1GxJgnh">
 					<img src="{{url()}}/images/twitter-blanco.png" alt="">
 				</a>
-				<a target="_blank" href="#">
+				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/cuadros/cuadros/marquis-chompa-vino-blazer-pame-pantalon-cuti&media=http://tueliges.com.pe/images/cuadros/6.jpg&description=Me%20fascin%C3%B3%20este%20look%20Cuadros%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
 					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
 				</a>
 			</p>
@@ -46,14 +46,14 @@
 	<div class="col-sm-2">
 		<div class="bloque-prenda">
 			<p>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/facebook-blanco.png" alt="">
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/cuadros/cuadros/oasis-polo-geo-texture-marquis-blazer-cool">
+					<img src="{{url()}}/images/facebook-interna.png" alt="">
 				</a>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/twitter-blanco.png" alt="">
+				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Cuadros%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20hhttp://bit.ly/1CbkQ5i">
+					<img src="{{url()}}/images/twitter-interna.png" alt="">
 				</a>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
+				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/cuadros/cuadros/oasis-polo-geo-texture-marquis-blazer-cool&media=http://tueliges.com.pe/images/cuadros/2.jpg&description=Me%20fascin%C3%B3%20este%20look%20Cuadros%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+					<img src="{{url()}}/images/pinterest-interna.png" alt="">
 				</a>
 			</p>
 			<img src="{{url()}}/images/cuadros/2.jpg" alt="" class="center-block img-responsive">
@@ -63,14 +63,14 @@
 		</div>
 		<div class="bloque-prenda">
 			<p>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/facebook-blanco.png" alt="">
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/cuadros/cuadros/marquis-vestido-cheks-casaca-blue">
+					<img src="{{url()}}/images/facebook-interna.png" alt="">
 				</a>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/twitter-blanco.png" alt="">
+				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Cuadros%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20http://bit.ly/1BAQ3LQ">
+					<img src="{{url()}}/images/twitter-interna.png" alt="">
 				</a>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
+				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/cuadros/cuadros/marquis-vestido-cheks-casaca-blue&media=http://tueliges.com.pe/images/cuadros/4.jpg&description=Me%20fascin%C3%B3%20este%20look%20Cuadros%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+					<img src="{{url()}}/images/pinterest-interna.png" alt="">
 				</a>
 			</p>
 			<img src="{{url()}}/images/cuadros/4.jpg" alt="" class="center-block img-responsive">
@@ -99,14 +99,14 @@
 		</div>
 		<div class="bloque-prenda">
 			<p>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/facebook-blanco.png" alt="">
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tueliges.com.pe/cuadros/cuadros/marquis-casaca-frata-pantalon-burde">
+					<img src="{{url()}}/images/facebook-interna.png" alt="">
 				</a>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/twitter-blanco.png" alt="">
+				<a target="_blank" href="https://twitter.com/home?status=Me%20fascin%C3%B3%20este%20look%20Cuadros%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges%20hhttp://bit.ly/1EEvH86">
+					<img src="{{url()}}/images/twitter-interna.png" alt="">
 				</a>
-				<a target="_blank" href="#">
-					<img src="{{url()}}/images/pinterest-blanco.png" alt="">
+				<a target="_blank" href="https://pinterest.com/pin/create/button/?url=http://tueliges.com.pe/cuadros/cuadros/marquis-casaca-frata-pantalon-burde&media=http://tueliges.com.pe/images/cuadros/3.jpg&description=Me%20fascin%C3%B3%20este%20look%20Cuadros%20de%20la%20nueva%20colecci%C3%B3n%20Oto%C3%B1o-Invierno%202015%20de%20Ripley%20%23tueliges">
+					<img src="{{url()}}/images/pinterest-interna.png" alt="">
 				</a>
 			</p>
 			<img src="{{url()}}/images/cuadros/5.jpg" alt="" class="center-block img-responsive">
