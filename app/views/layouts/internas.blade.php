@@ -34,6 +34,7 @@
 		<![endif]-->
 		<script src="{{url()}}/scripts/queryloader2.min.js"></script>
 		<script type="text/javascript">
+			var urlBase = "{{url()}}";
 			window.addEventListener('DOMContentLoaded', function () {
 				new QueryLoader2(document.querySelector("body"), {
 					barColor: "#fff",
@@ -41,7 +42,12 @@
 					percentage: true,
 					barHeight: 1,
 					minimumTime: 200,
-					fadeOutTime: 1000
+					fadeOutTime: 1000,
+					onComplete: function() {
+						var musica = document.getElementById("musica");
+						musica.volume = 0.2;
+						musica.play();
+					}
 				});
 			});
 		</script>
@@ -57,35 +63,39 @@
 				<img src="{{url()}}/images/btn-close.png" alt="">
 			</a>
 			<p class="text-center">
-				<a href="{{url()}}" class="hover">
+				<a href="{{url()}}" >
 					HOME
 				</a>
 				<br>
-				<a href="{{url()}}/extra-normal" class="hover">
+				<a href="{{url()}}/extra-normal" >
 					TENDENCIAS
 				</a>
 				<br>
-				<a href="{{url()}}/videos" class="hover">
+				<a href="{{url()}}/videos" >
 					VIDEO
 				</a>
 				<br>
-				<a href="#" class="hover">
+				<a href="#" >
 					CONCURSO
 				</a>
 			</p>
 			<hr>
 			<p class="redes text-center">
-				<a href="#" class="hover">
+				<a href="#" >
 					<img src="{{url()}}/images/twitter.png" alt="">
 				</a>
-				<a href="#" class="hover">
+				<a href="#" >
 					<img src="{{url()}}/images/facebook.png" alt="">
 				</a>
 			</p>
 		</section>
 		<header class="container-fluid">
 			<section class="row">
-                <div class="col-xs-1"></div>
+                <div class="col-xs-1">
+					<a href="#" class="musica" data-estado="off">
+						<img src="{{url()}}/images/icono-audio.gif" alt="">
+					</a>
+				</div>
 				<div class="col-xs-2">
 					<p class="titulo text-center">
                         <a href="{{url()}}">
@@ -103,5 +113,10 @@
 		<section class="container-fluid">
 			@yield('content')
 		</section>
+		<div class="hidden">
+			<audio id="musica" loop="loop" controls="controls">
+				<source src="{{url()}}/audio/musica.mp3" />
+			</audio>
+		</div>
 	</body>
 </html>

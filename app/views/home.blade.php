@@ -33,6 +33,7 @@
 		<![endif]-->
 		<script src="{{url()}}/scripts/queryloader2.min.js"></script>
 		<script type="text/javascript">
+			var urlBase = "{{url()}}";
 			window.addEventListener('DOMContentLoaded', function () {
 				new QueryLoader2(document.querySelector("body"), {
 					barColor: "#fff",
@@ -88,7 +89,7 @@
 				<div class="row">
 					<div class="col-sm-2">
 						<a href="#" class="musica" data-estado="off">
-							<img src="{{url()}}/images/icono-audio.png" alt="">
+							<img src="{{url()}}/images/icono-audio.gif" alt="">
 						</a>
 						<img src="{{url()}}/images/home/elige-ser-tu-misma.jpg" class="img-responsive center-block" alt="">
 					</div>
@@ -104,28 +105,28 @@
 						<img src="{{url()}}/images/home/menu.png" class="img-responsive center-block" alt="">
 						<div>
 							<p class="text-center">
-								<a href="{{url()}}" class="hover">
+								<a href="{{url()}}" >
 									HOME
 								</a>
 								<br>
-								<a href="{{url()}}/extra-normal" class="hover">
+								<a href="{{url()}}/extra-normal" >
 									TENDENCIAS
 								</a>
 								<br>
-								<a href="{{url()}}/videos" class="hover">
+								<a href="{{url()}}/videos" >
 									VIDEO
 								</a>
 								<br>
-								<a href="#" class="hover">
+								<a href="#" >
 									CONCURSO
 								</a>
 							</p>
 							<hr>
 							<p class="redes text-center">
-								<a href="#" class="hover">
+								<a href="#" >
 									<img src="{{url()}}/images/twitter.png" alt="">
 								</a>
-								<a href="#" class="hover">
+								<a href="#" >
 									<img src="{{url()}}/images/facebook.png" alt="">
 								</a>
 							</p>

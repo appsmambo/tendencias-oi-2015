@@ -4,11 +4,11 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		
+
 		<title>{{$meta['titulo']}}</title>
 		<meta name="description" content="{{$meta['descripcion']}}">
 		<meta name="keywords" content="{{$meta['keyword']}}">
-		
+
 		<link rel="canonical" href="{{url()}}">
 		<!--meta property="fb:app_id" content="242776895908289">
 		<meta property="og:title" content="Blog Ripley">
@@ -21,7 +21,7 @@
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:site" content="@RipleyenPeru">
 		<meta name="twitter:description" content="Masculine, bohemio, militar...descubre las nuevas tendencias que te trae Ripley este Otoño Invierno 2015"-->
-		
+
 		<link rel="icon" href="{{url()}}/favicon.ico" type="image/x-icon">
 		<link rel="stylesheet" type="text/css" href="{{url()}}/scripts/tendencias/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="{{url()}}/scripts/tendencias/jquery.bxslider/jquery.bxslider.css">
@@ -34,6 +34,7 @@
 		<![endif]-->
 		<script src="{{url()}}/scripts/queryloader2.min.js"></script>
 		<script type="text/javascript">
+			var urlBase = "{{url()}}";
 			window.addEventListener('DOMContentLoaded', function () {
 				new QueryLoader2(document.querySelector("body"), {
 					barColor: "#fff",
@@ -42,7 +43,7 @@
 					barHeight: 1,
 					minimumTime: 200,
 					fadeOutTime: 1000,
-					onComplete: function() {
+					onComplete: function () {
 						var musica = document.getElementById("musica");
 						musica.volume = 0.2;
 						musica.play();
@@ -62,32 +63,28 @@
 				<img src="{{url()}}/images/btn-close.png" alt="">
 			</a>
 			<p class="text-center">
-				<a href="{{url()}}" class="hover">
+				<a href="{{url()}}" >
 					HOME
 				</a>
 				<br>
-				<a href="{{url()}}/extra-normal" class="hover">
+				<a href="{{url()}}/extra-normal" >
 					TENDENCIAS
 				</a>
 				<br>
-				<a href="{{url()}}/imprescindibles" class="hover">
-					IMPRESCINDIBLES
-				</a>
-				<br>
-				<a href="{{url()}}/videos" class="hover">
+				<a href="{{url()}}/videos" >
 					VIDEO
 				</a>
 				<br>
-				<a href="#" class="hover">
+				<a href="#" >
 					CONCURSO
 				</a>
 			</p>
 			<hr>
 			<p class="redes text-center">
-				<a href="#" class="hover">
+				<a href="#" >
 					<img src="{{url()}}/images/twitter.png" alt="">
 				</a>
-				<a href="#" class="hover">
+				<a href="#" >
 					<img src="{{url()}}/images/facebook.png" alt="">
 				</a>
 			</p>
@@ -96,7 +93,7 @@
 			<section class="row">
 				<div class="col-xs-1">
 					<a href="#" class="musica" data-estado="off">
-						<img src="{{url()}}/images/icono-audio.png" alt="">
+						<img src="{{url()}}/images/icono-audio.gif" alt="">
 					</a>
 				</div>
 				<div class="col-xs-2">

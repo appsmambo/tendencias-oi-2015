@@ -5,9 +5,11 @@ $(document).ready(function(){
 		if (estado == 'off') {
 			musica.pause();
 			$(this).data('estado', 'on');
+			$('img', this).attr('src', urlBase + '/images/icono-audio-off.gif');
 		} else {
 			musica.play();
 			$(this).data('estado', 'off');
+			$('img', this).attr('src', urlBase + '/images/icono-audio.gif');
 		}
 		return false;
 	});

@@ -4,11 +4,11 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		
+
 		<title>{{$meta['titulo']}}</title>
 		<meta name="description" content="{{$meta['descripcion']}}">
 		<meta name="keywords" content="{{$meta['keyword']}}">
-		
+
 		<link rel="canonical" href="{{url()}}">
 		<!--meta property="fb:app_id" content="242776895908289">
 		<meta property="og:title" content="Blog Ripley">
@@ -21,7 +21,7 @@
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:site" content="@RipleyenPeru">
 		<meta name="twitter:description" content="Masculine, bohemio, militar...descubre las nuevas tendencias que te trae Ripley este Otoño Invierno 2015"-->
-		
+
 		<link rel="icon" href="{{url()}}/favicon.ico" type="image/x-icon">
         <link rel="stylesheet" type="text/css" href="{{url()}}/scripts/tendencias/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="{{url()}}/css/internas.css">
@@ -33,6 +33,7 @@
 		<![endif]-->
 		<script src="{{url()}}/scripts/queryloader2.min.js"></script>
 		<script type="text/javascript">
+			var urlBase = "{{url()}}";
 			window.addEventListener('DOMContentLoaded', function () {
 				new QueryLoader2(document.querySelector("body"), {
 					barColor: "#fff",
@@ -40,14 +41,32 @@
 					percentage: true,
 					barHeight: 1,
 					minimumTime: 200,
-					fadeOutTime: 1000
+					fadeOutTime: 1000,
+					onComplete: function () {
+						var musica = document.getElementById("musica");
+						musica.volume = 0.2;
+						musica.play();
+					}
 				});
-				$('.menu, .cerrar').click(function() {
+				$('.menu, .cerrar').click(function () {
 					$('.bloque-menu').toggle();
 					return false;
 				});
+				var musica = document.getElementById("musica");
+				$('.musica').click(function () {
+					var estado = $(this).data('estado');
+					if (estado == 'off') {
+						musica.pause();
+						$(this).data('estado', 'on');
+						$('img', this).attr('src', urlBase + '/images/icono-audio-off.gif');
+					} else {
+						musica.play();
+						$(this).data('estado', 'off');
+						$('img', this).attr('src', urlBase + '/images/icono-audio.gif');
+					}
+					return false;
+				});
 			});
-			
 		</script>
 		<script src="{{url()}}/scripts/jquery.min.js"></script>
 		<script src="{{url()}}/scripts/tendencias/bootstrap.min.js"></script>
@@ -58,38 +77,42 @@
 				<img src="{{url()}}/images/btn-close.png" alt="">
 			</a>
 			<p class="text-center">
-				<a href="{{url()}}" class="hover">
+				<a href="{{url()}}" >
 					HOME
 				</a>
 				<br>
-				<a href="{{url()}}/extra-normal" class="hover">
+				<a href="{{url()}}/extra-normal" >
 					TENDENCIAS
 				</a>
 				<br>
-				<a href="{{url()}}/videos" class="hover">
+				<a href="{{url()}}/videos" >
 					VIDEO
 				</a>
 				<br>
-				<a href="#" class="hover">
+				<a href="#" >
 					CONCURSO
 				</a>
 			</p>
 			<hr>
 			<p class="redes text-center">
-				<a href="#" class="hover">
+				<a href="#" >
 					<img src="{{url()}}/images/twitter.png" alt="">
 				</a>
-				<a href="#" class="hover">
+				<a href="#" >
 					<img src="{{url()}}/images/facebook.png" alt="">
 				</a>
 			</p>
 		</section>
 		<header class="container-fluid">
 			<section class="row">
-                <div class="col-xs-1"></div>
+                <div class="col-xs-1">
+					<a href="#" class="musica" data-estado="off">
+						<img src="{{url()}}/images/icono-audio.gif" alt="">
+					</a>
+				</div>
 				<div class="col-xs-2">
 					<p class="titulo text-center">
-                       <a href="{{url()}}">
+						<a href="{{url()}}">
 							<img src="images/titulo-tendencias.jpg" class="img-responsive center-block" />
 						</a>
 					</p>
@@ -125,5 +148,10 @@
 		<section class="container-fluid">
 			@yield('content')
 		</section>
+		<div class="hidden">
+			<audio id="musica" loop="loop" controls="controls">
+				<source src="{{url()}}/audio/musica.mp3" />
+			</audio>
+		</div>
 	</body>
 </html>
