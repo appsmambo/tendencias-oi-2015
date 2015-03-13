@@ -16,7 +16,14 @@ header a {
   line-height: 68px;
 }
 a {
-	display:block
+	display:block;
+	color:#000;
+	text-decoration:none
+}
+a:focus,
+a:hover {
+	color:#000;
+	text-decoration:none
 }
 .menu {
 	display:inline-block;

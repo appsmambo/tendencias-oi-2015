@@ -1,7 +1,4 @@
 @extends('layouts.internas')
-@section('titulo')
-<strong>VIDEOS</strong> OTONO//INVIERNO 2015
-@stop
 @section('content')
 <div class="row">
     <div class="col-sm-2 col-sm-offset-1 logo-video">

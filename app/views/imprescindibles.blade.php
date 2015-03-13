@@ -1,7 +1,4 @@
 @extends('layouts.internas')
-@section('titulo')
-<strong>TENDENCIAS</strong> OTONO//INVIERNO 2015
-@stop
 @section('content')
 <div class="row">
     <div class="col-sm-2">

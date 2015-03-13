@@ -88,7 +88,9 @@
                 <div class="col-xs-1"></div>
 				<div class="col-xs-2">
 					<p class="titulo text-center">
-                        @yield('titulo')
+                        <a href="{{url()}}">
+							<strong>TENDENCIAS</strong> OTONO//INVIERNO 2015
+						</a>
 					</p>
 				</div>
 				<div class="col-xs-1">
