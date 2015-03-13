@@ -57,29 +57,29 @@ class HomeController extends BaseController {
 				'descripcion' => 'Mira nuestro nuevo comercial de tendencias Otoño-Invierno 2015 #tueliges'
 			),
 			'imprescindibles' => array(
-				'titulo' => 'Videos Tendencias Ripley Otoño-Invierno 2015 #tueliges',
-				'keyword' => 'tendencias, ripley, otoño invierno 2015, moda, mylife, tueliges, new york, comercial, making of',
-				'descripcion' => 'Mira nuestro nuevo comercial de tendencias Otoño-Invierno 2015 #tueliges'
+				'titulo' => 'Imprescindibles por menos. Otoño Invierno 2015. Tendencias Ripley #tueliges',
+				'keyword' => 'tendencias, moda, otoño invierno 2015, imprescindibles, mylife, tu eliges, ripley',
+				'descripcion' => 'Me fascinó este look Imprescindible de la nueva colección Otoño-Invierno 2015 de Ripley #tueliges'
 			),
 			'must-camisa-blanca' => array(
-				'titulo' => 'Videos Tendencias Ripley Otoño-Invierno 2015 #tueliges',
-				'keyword' => 'tendencias, ripley, otoño invierno 2015, moda, mylife, tueliges, new york, comercial, making of',
-				'descripcion' => 'Mira nuestro nuevo comercial de tendencias Otoño-Invierno 2015 #tueliges'
+				'titulo' => 'Este Otoño Invierno la camisa blanca es un auténtico must. Encuéntrala en Ripley.',
+				'keyword' => 'tendencias, moda, otoño invierno 2015, ripley, must, camisa blanca, blusa blanca,  mylife, tueliges',
+				'descripcion' => 'La camisa blanca es un must de la temporada. Yo elijo esta. #tueliges'
 			),
 			'must-capas-livianas' => array(
-				'titulo' => 'Videos Tendencias Ripley Otoño-Invierno 2015 #tueliges',
-				'keyword' => 'tendencias, ripley, otoño invierno 2015, moda, mylife, tueliges, new york, comercial, making of',
-				'descripcion' => 'Mira nuestro nuevo comercial de tendencias Otoño-Invierno 2015 #tueliges'
+				'titulo' => 'Este Otoño Invierno las capas livianas son un auténtico must. Encuéntralas en Ripley.',
+				'keyword' => 'tendencias, moda, otoño invierno 2015, ripley, must, capa, capas livianas, mylife, tueliges',
+				'descripcion' => 'La capa es un must de la temporada. Yo elijo esta. #tueliges'
 			),
 			'must-casacas-livianas' => array(
-				'titulo' => 'Videos Tendencias Ripley Otoño-Invierno 2015 #tueliges',
-				'keyword' => 'tendencias, ripley, otoño invierno 2015, moda, mylife, tueliges, new york, comercial, making of',
-				'descripcion' => 'Mira nuestro nuevo comercial de tendencias Otoño-Invierno 2015 #tueliges'
+				'titulo' => 'Este Otoño Invierno las casacas livianas son un auténtico must. Encuéntralas en Ripley.',
+				'keyword' => 'tendencias, moda, otoño invierno 2015, casacas, casacas livianas, must, ripley, mylife, tueliges, que me pongo',
+				'descripcion' => 'Las casacas livianas son un must de la temporada. Yo elijo esta. #tueliges'
 			),
 			'must-cuello-tortuga' => array(
-				'titulo' => 'Videos Tendencias Ripley Otoño-Invierno 2015 #tueliges',
-				'keyword' => 'tendencias, ripley, otoño invierno 2015, moda, mylife, tueliges, new york, comercial, making of',
-				'descripcion' => 'Mira nuestro nuevo comercial de tendencias Otoño-Invierno 2015 #tueliges'
+				'titulo' => 'Este Otoño Invierno el cuello de tortuga es un auténtico must. Encuéntralo en Ripley.',
+				'keyword' => 'tendencias, mylife, moda, cuello tortuga, must, otoño invierno 2015, ripley, que me pongo',
+				'descripcion' => 'Las chompas con cuello de tortuga son un must de la temporada. Yo elijo esta. #tueliges'
 			)
 		);
 		$this->_metas = $metas;
@@ -195,5 +195,37 @@ class HomeController extends BaseController {
 		return View::make('imprescindibles')
 				->with('prenda', $prendas->first())
 				->with('meta', $this->_metas['imprescindibles']);
+	}
+	public function verPrendaMustCamisaBlanca($url_prenda = 'navigata-blusa-fefe')
+	{
+		$prendas = Prendas::where('categoria', '=', 'must/camisa-blanca');
+		$prendas->where('url', '=', $url_prenda);
+		return View::make('must/camisa-blanca')
+				->with('prenda', $prendas->first())
+				->with('meta', $this->_metas['must-camisa-blanca']);
+	}
+	public function verPrendaMustCapasLivianas($url_prenda = 'oasis-capa-plain')
+	{
+		$prendas = Prendas::where('categoria', '=', 'must/capas-livianas');
+		$prendas->where('url', '=', $url_prenda);
+		return View::make('must/capas-livianas')
+				->with('prenda', $prendas->first())
+				->with('meta', $this->_metas['must-capas-livianas']);
+	}
+	public function verPrendaMustCasacasLivianas($url_prenda = 'oasis-capa-plain')
+	{
+		$prendas = Prendas::where('categoria', '=', 'must/marquis-casaca-bone');
+		$prendas->where('url', '=', $url_prenda);
+		return View::make('must/casacas-livianas')
+				->with('prenda', $prendas->first())
+				->with('meta', $this->_metas['must-casacas-livianas']);
+	}
+	public function verPrendaMustCuelloTortuga($url_prenda = 'marquis-sweater-cami')
+	{
+		$prendas = Prendas::where('categoria', '=', 'must/cuello-tortuga');
+		$prendas->where('url', '=', $url_prenda);
+		return View::make('must/cuello-tortuga')
+				->with('prenda', $prendas->first())
+				->with('meta', $this->_metas['must-cuello-tortuga']);
 	}
 }

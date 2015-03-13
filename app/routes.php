@@ -34,4 +34,7 @@ Route::get('/metalicos/{url_prenda}', 'HomeController@verPrendaMetalicos');
 
 Route::get('/imprescindibles/{url_prenda}', 'HomeController@verPrendaImprescindibles');
 
-
+Route::get('/must/camisa-blanca/{url_prenda}', 'HomeController@verPrendaMustCamisaBlanca');
+Route::get('/must/capas-livianas/{url_prenda}', 'HomeController@verPrendaMustCapasLivianas');
+Route::get('/must/casacas-livianas/{url_prenda}', 'HomeController@verPrendaMustCasacasLivianas');
+Route::get('/must/cuello-tortuga/{url_prenda}', 'HomeController@verPrendaMustCuelloTortuga');
