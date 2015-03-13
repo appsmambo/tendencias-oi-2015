@@ -10,7 +10,7 @@
 		<meta name="keywords" content="tendencias, ripley, otoño invierno 2015, new york, moda, militar, tomboy, bohemio, masculine, metalicos, animal print, cuadros, mylife, tueliges">
 		
 		<link rel="canonical" href="{{url()}}">
-		<meta property="fb:app_id" content="242776895908289">
+		<meta property="fb:app_id" content="348754865322281">
 		<meta property="og:title" content="Tendencias Ripley Otoño-Invierno 2015 #tueliges">
 		<meta property="og:type" content="website">
 		<meta property="og:url" content="{{url()}}">
@@ -35,9 +35,10 @@
 				new QueryLoader2(document.querySelector("body"), {
 					barColor: "#fff",
 					backgroundColor: "#181a20",
-					percentage: true,
+					percentage: false,
 					barHeight: 1,
-					minimumTime: 200,
+					minimumTime: 500,
+					maxTime: 15000,
 					fadeOutTime: 1000,
 					onComplete: function() {
 						var musica = document.getElementById("musica");

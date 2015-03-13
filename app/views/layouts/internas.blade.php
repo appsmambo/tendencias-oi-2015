@@ -9,7 +9,7 @@
 		<meta name="description" content="{{$meta['descripcion']}}">
 		<meta name="keywords" content="{{$meta['keyword']}}">
 
-		<meta property="fb:app_id" content="242776895908289">
+		<meta property="fb:app_id" content="348754865322281">
 		<meta property="og:title" content="{{$meta['titulo']}}">
 		<meta property="og:type" content="website">
 		<meta property="og:site_name" content="{{$meta['titulo']}}">
@@ -42,9 +42,10 @@
 				new QueryLoader2(document.querySelector("body"), {
 					barColor: "#fff",
 					backgroundColor: "#181a20",
-					percentage: true,
+					percentage: false,
 					barHeight: 1,
-					minimumTime: 200,
+					minimumTime: 500,
+					maxTime: 15000,
 					fadeOutTime: 1000,
 					onComplete: function() {
 						var musica = document.getElementById("musica");
@@ -111,7 +112,7 @@
 				<div class="col-xs-2">
 					<p class="titulo text-center titulo-tendencias">
                         <a href="{{url()}}">
-							<img src="images/titulo-tendencias.jpg" class="img-responsive center-block" />
+							<img src="{{url()}}/images/titulo-tendencias.jpg" class="img-responsive center-block" />
 						</a>
 					</p>
 				</div>
