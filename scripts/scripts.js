@@ -1,6 +1,6 @@
-$(document).ready(function(){
+$(document).ready(function () {
 	var musica = document.getElementById("musica");
-	$('.musica').click(function() {
+	$('.musica').click(function () {
 		var estado = $(this).data('estado');
 		if (estado == 'off') {
 			musica.pause();
@@ -12,5 +12,12 @@ $(document).ready(function(){
 			$('img', this).attr('src', urlBase + '/images/icono-audio.gif');
 		}
 		return false;
+	});
+	$('.fancybox-media').fancybox({
+		openEffect: 'none',
+		closeEffect: 'none',
+		helpers: {
+			media: {}
+		}
 	});
 });

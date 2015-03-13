@@ -21,6 +21,7 @@
 		
 		<link rel="icon" href="{{url()}}/favicon.ico" type="image/x-icon">
 		<link rel="stylesheet" type="text/css" href="{{url()}}/scripts/home/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="{{url()}}/scripts/fancybox/jquery.fancybox.css">
 		<link rel="stylesheet" type="text/css" href="{{url()}}/css/home.css">
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -50,6 +51,8 @@
 		</script>
 		<script src="{{url()}}/scripts/jquery.min.js"></script>
 		<script src="{{url()}}/scripts/home/bootstrap.min.js"></script>
+		<script src="{{url()}}/scripts/fancybox/jquery.fancybox.js"></script>
+        <script src="{{url()}}/scripts/fancybox/helpers/jquery.fancybox-media.js"></script>
 		<script src="{{url()}}/scripts/scripts.js"></script>
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -142,7 +145,7 @@
 				</div>
 				<div class="row">
 					<div class="col-sm-4">
-						<a href="#" class="hover">
+						<a href="http://www.youtube.com/watch?v=M5cyWJbJz50&spfreload=10" class="hover fancybox-media">
 							<img src="{{url()}}/images/home/tendecias-2015-video.jpg" class="img-responsive center-block" alt="">
 						</a>
 					</div>
