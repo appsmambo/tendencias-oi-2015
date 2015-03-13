@@ -8,19 +8,22 @@
 		<title>{{$meta['titulo']}}</title>
 		<meta name="description" content="{{$meta['descripcion']}}">
 		<meta name="keywords" content="{{$meta['keyword']}}">
-		
-		<link rel="canonical" href="{{url()}}">
-		<!--meta property="fb:app_id" content="242776895908289">
-		<meta property="og:title" content="Blog Ripley">
-		<meta property="og:type" content="blog">
-		<meta property="og:url" content="http://blogripley.com/">
-		<meta property="og:image" content="http://blogripley.com/images/facebook.jpg">
-		<meta property="og:site_name" content="Blog Ripley">
+
+		<meta property="fb:app_id" content="242776895908289">
+		<meta property="og:title" content="{{$meta['titulo']}}">
+		<meta property="og:type" content="website">
+		<meta property="og:site_name" content="{{$meta['titulo']}}">
 		<meta property="fb:admins" content="100008010128050">
-		<meta property="og:description" content="Masculine, bohemio, militar...descubre las nuevas tendencias que te trae Ripley este Otoño Invierno 2015">
-		<meta name="twitter:card" content="summary">
-		<meta name="twitter:site" content="@RipleyenPeru">
-		<meta name="twitter:description" content="Masculine, bohemio, militar...descubre las nuevas tendencias que te trae Ripley este Otoño Invierno 2015"-->
+		<meta property="og:description" content="{{$meta['descripcion']}}">
+		@if (isset($prenda))
+		<link rel="canonical" href="{{url()}}/{{$prenda->categoria}}/{{$prenda->url}}">
+		<meta property="og:url" content="{{url()}}/{{$prenda->categoria}}/{{$prenda->url}}">
+		<meta property="og:image" content="{{url()}}/images/{{$prenda->categoria}}/{{$prenda->imagen}}">
+		@else
+		<link rel="canonical" href="{{url()}}">
+		<meta property="og:url" content="{{url()}}">
+		<meta property="og:image" content="{{url()}}/images/200x200.png">
+		@endif
 		
 		<link rel="icon" href="{{url()}}/favicon.ico" type="image/x-icon">
         <link rel="stylesheet" type="text/css" href="{{url()}}/scripts/tendencias/bootstrap.min.css">

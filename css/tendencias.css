@@ -130,19 +130,22 @@ header a {
     width: 60%
 }
 .bloque-prenda {
+	overflow:hidden;
 	position:relative
 }
 .bloque-prenda div {
 	background-image:url('../images/fondo-info.png');
 	color:#fff;
 	font-family:'helveticacy';
-	font-size:14px;
+	font-size:13px;
 	font-weight:bold;
 	letter-spacing:2px;
+	left:0;
 	height:100%;
 	padding:60% 11%;
 	position:absolute;
 	text-align:center;
+	top:0;
 	width:100%;
 	z-index:1
 }

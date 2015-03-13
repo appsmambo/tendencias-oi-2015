@@ -10,17 +10,14 @@
 		<meta name="keywords" content="tendencias, ripley, otoño invierno 2015, new york, moda, militar, tomboy, bohemio, masculine, metalicos, animal print, cuadros, mylife, tueliges">
 		
 		<link rel="canonical" href="{{url()}}">
-		<!--meta property="fb:app_id" content="242776895908289">
-		<meta property="og:title" content="Blog Ripley">
-		<meta property="og:type" content="blog">
-		<meta property="og:url" content="http://blogripley.com/">
-		<meta property="og:image" content="http://blogripley.com/images/facebook.jpg">
-		<meta property="og:site_name" content="Blog Ripley">
+		<meta property="fb:app_id" content="242776895908289">
+		<meta property="og:title" content="Tendencias Ripley Otoño-Invierno 2015 #tueliges">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="{{url()}}">
+		<meta property="og:image" content="{{url()}}/images/200x200.png">
+		<meta property="og:site_name" content="Tendencias Ripley Otoño-Invierno 2015 #tueliges">
 		<meta property="fb:admins" content="100008010128050">
 		<meta property="og:description" content="Masculine, bohemio, militar...descubre las nuevas tendencias que te trae Ripley este Otoño Invierno 2015">
-		<meta name="twitter:card" content="summary">
-		<meta name="twitter:site" content="@RipleyenPeru">
-		<meta name="twitter:description" content="Masculine, bohemio, militar...descubre las nuevas tendencias que te trae Ripley este Otoño Invierno 2015"-->
 		
 		<link rel="icon" href="{{url()}}/favicon.ico" type="image/x-icon">
 		<link rel="stylesheet" type="text/css" href="{{url()}}/scripts/home/bootstrap.min.css">
