@@ -97,7 +97,8 @@
 		</nav>
 		
 		<div class="jumbotron vertical-center">
-			<section class="container children">
+			<?php $class = (Agent::isMobile()) ? 'container' : 'container-fluid' ?>
+			<section class="<?php echo $class ?> children">
 				<div class="row">
 					<div class="col-sm-2">
 						<?php if (Agent::isMobile()): ?>
