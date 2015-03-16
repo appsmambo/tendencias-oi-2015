@@ -147,13 +147,12 @@ a:hover {
 }
 .bloque-prenda p {
 	position:absolute;
-	right:12px;
-	top:10px;
+	right:28px;
+	top:15px;
 	z-index:2
 }
 .bloque-prenda a {
-	display:inline-block;
-	margin-right:5px
+	display:inline-block
 }
 .prenda{
 	width:100%
@@ -274,6 +273,13 @@ a:hover {
 	}
 	.video-descripcion p.parrafo-2{
 		font-size:12px;
+	}
+	.bloque-prenda p{
+		top:12px;
+		right:10px;
+	}
+	.bloque-prenda a{
+		margin-right:5px
 	}
 }
 @media (max-width:740px) {
