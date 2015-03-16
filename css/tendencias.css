@@ -155,12 +155,13 @@ header a {
 }
 .bloque-prenda p {
 	position:absolute;
-	right:28px;
-	top:15px;
+	right:12px;
+	top:10px;
 	z-index:2
 }
 .bloque-prenda a {
-	display:inline-block
+	display:inline-block;
+	margin-right:5px
 }
 .prenda{
 	width:100%
