@@ -1,4 +1,8 @@
 $(document).ready(function () {
+	$('.menu, .cerrar').click(function() {
+		$('.bloque-menu').toggle();
+		return false;
+	});
 	var musica = document.getElementById("musica");
 	$('.musica').click(function () {
 		var estado = $(this).data('estado');
@@ -13,11 +17,12 @@ $(document).ready(function () {
 		}
 		return false;
 	});
-	$('.fancybox-media').fancybox({
-		openEffect: 'none',
-		closeEffect: 'none',
-		helpers: {
-			media: {}
+	$('.bloque-prenda').hover(
+		function() {
+			$('div', this).fadeIn();
+		},
+		function() {
+			$('div', this).fadeOut();
 		}
-	});
+	);
 });

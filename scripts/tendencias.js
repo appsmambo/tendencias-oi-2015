@@ -13,20 +13,8 @@ $(document).ready(function(){
 		slideMargin:0,
 		pager:false
 	});
-	$('.menu, .cerrar').click(function() {
-		$('.bloque-menu').toggle();
-		return false;
-	});
 	$('.cerrar-tendencias').click(function() {
 		$('.bloque-imprescindibles').hide();
 		return false;
 	});
-	$('.bloque-prenda').hover(
-		function() {
-			$('div', this).fadeIn();
-		},
-		function() {
-			$('div', this).fadeOut();
-		}
-	);
 });

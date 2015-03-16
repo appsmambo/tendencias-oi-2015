@@ -52,29 +52,12 @@
 						musica.play();
 					}
 				});
-				$('.menu, .cerrar').click(function () {
-					$('.bloque-menu').toggle();
-					return false;
-				});
-				var musica = document.getElementById("musica");
-				$('.musica').click(function () {
-					var estado = $(this).data('estado');
-					if (estado == 'off') {
-						musica.pause();
-						$(this).data('estado', 'on');
-						$('img', this).attr('src', urlBase + '/images/icono-audio-off.gif');
-					} else {
-						musica.play();
-						$(this).data('estado', 'off');
-						$('img', this).attr('src', urlBase + '/images/icono-audio.gif');
-					}
-					return false;
-				});
 			});
 		</script>
 		<script src="{{url()}}/scripts/jquery.min.js"></script>
 		<script src="{{url()}}/scripts/tendencias/bootstrap.min.js"></script>
 		<script src="{{url()}}/scripts/must.js"></script>
+		<script src="{{url()}}/scripts/scripts.js"></script>
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
