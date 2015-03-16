@@ -48,9 +48,11 @@
 					maxTime: 15000,
 					fadeOutTime: 1000,
 					onComplete: function () {
+						<?php if (!Agent::isMobile()): ?>
 						var musica = document.getElementById("musica");
 						musica.volume = 0.2;
 						musica.play();
+						<?php endif; ?>
 					}
 				});
 			});

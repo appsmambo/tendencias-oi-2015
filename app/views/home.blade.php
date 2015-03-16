@@ -42,9 +42,11 @@
 					maxTime: 15000,
 					fadeOutTime: 1000,
 					onComplete: function() {
+						<?php if (!Agent::isMobile()): ?>
 						var musica = document.getElementById("musica");
 						musica.volume = 0.2;
 						musica.play();
+						<?php endif; ?>
 					}
 				});
 			});
@@ -95,16 +97,16 @@
 		</nav>
 		
 		<div class="jumbotron vertical-center">
-			<section class="container-fluid children">
+			<section class="container children">
 				<div class="row">
 					<div class="col-sm-2">
 						<?php if (Agent::isMobile()): ?>
 						<a href="#" class="musica" data-estado="on">
-							<img src="{{url()}}/images/icono-audio.png" alt="">
+							<img src="{{url()}}/images/icono-audio.png" alt="" class="img-responsive">
 						</a>
 						<?php else: ?>
 						<a href="#" class="musica" data-estado="off">
-							<img src="{{url()}}/images/icono-audio.gif" alt="">
+							<img src="{{url()}}/images/icono-audio.gif" alt="" class="img-responsive">
 						</a>
 						<?php endif; ?>
 						<img src="{{url()}}/images/home/elige-ser-tu-misma.jpg" class="img-responsive center-block" alt="">
@@ -169,7 +171,7 @@
 					</div>
 				</div>
 				<div class="row visible-xs">
-					<div class="col-xs-12">
+					<div class="col-xs-7">
 						<img src="{{url()}}/images/home/tu-eliges.jpg" class="img-responsive center-block" alt="">
 					</div>
 				</div>
