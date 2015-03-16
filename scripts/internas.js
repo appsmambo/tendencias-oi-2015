@@ -6,6 +6,17 @@ $(document).ready(function(){
 			media : {}
 		}
 	});
+	$(".various").fancybox({
+		maxWidth	: 800,
+		maxHeight	: 500,
+		fitToView	: false,
+		width		: '80%',
+		height		: '80%',
+		autoSize	: false,
+		closeClick	: false,
+		openEffect	: 'none',
+		closeEffect	: 'none'
+	});
 	$('.menu, .cerrar').click(function() {
 		$('.bloque-menu').toggle();
 		return false;

@@ -217,6 +217,9 @@ a:hover {
 .video-descripcion{
 	text-transform: uppercase;
 }
+.catalo-enlace{
+	display:inline-block;
+}
 @media (max-width:920px) {
 	.titulo{
 		padding-top:1.8%;

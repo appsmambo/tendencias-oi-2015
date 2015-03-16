@@ -59,8 +59,7 @@
 				<img src="{{url()}}/images/participa-gana/btn-catalogo-online.jpg" class="img-responsive center-block" alt="">
 			</a>
 			<?php else: ?>
-			<iframe width="650" height="389" src="//e.issuu.com/embed.html#0/11859323" frameborder="0" allowfullscreen></iframe>
-			<a href="{{url()}}/extra-normal">
+			<a class="various catalo-enlace" data-fancybox-type="iframe" href="http://e.issuu.com/embed.html#0/11859323">
 				<img src="{{url()}}/images/participa-gana/btn-catalogo-online.jpg" class="img-responsive center-block" alt="">
 			</a>
 			<?php endif; ?>
@@ -72,7 +71,7 @@
 					ver términos y condiciones
 				</a>
 				<?php else: ?>
-				<a href="{{url()}}/docs/terminos-y-condiciones.pdf" target="_blank" class="terminos">
+				<a class="various terminos " data-fancybox-type="iframe"  href="http://tueliges.com.pe/docs/terminos-y-condiciones.pdf" target="_blank" class="terminos">
 					ver términos y condiciones
 				</a>
 				<?php endif; ?>
