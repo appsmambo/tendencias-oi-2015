@@ -98,9 +98,15 @@
 			<section class="container-fluid children">
 				<div class="row">
 					<div class="col-sm-2">
+						<?php if (Agent::isMobile()): ?>
+						<a href="#" class="musica" data-estado="on">
+							<img src="{{url()}}/images/icono-audio.png" alt="">
+						</a>
+						<?php else: ?>
 						<a href="#" class="musica" data-estado="off">
 							<img src="{{url()}}/images/icono-audio.gif" alt="">
 						</a>
+						<?php endif; ?>
 						<img src="{{url()}}/images/home/elige-ser-tu-misma.jpg" class="img-responsive center-block" alt="">
 					</div>
 					<div class="col-sm-2">
@@ -123,7 +129,7 @@
 									TENDENCIAS
 								</a>
 								<br>
-								<a href="#">
+								<a href="{{url()}}/videos">
 									VIDEO
 								</a>
 								<br>

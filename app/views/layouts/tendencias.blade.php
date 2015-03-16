@@ -84,7 +84,7 @@
 					TENDENCIAS
 				</a>
 				<br>
-				<a href="#">
+				<a href="{{url()}}/videos">
 					VIDEO
 				</a>
 				<br>
@@ -105,9 +105,15 @@
 		<header class="container-fluid">
 			<section class="row">
 				<div class="col-xs-1">
+					<?php if (Agent::isMobile()): ?>
+					<a href="#" class="musica" data-estado="on">
+						<img src="{{url()}}/images/icono-audio.png" alt="">
+					</a>
+					<?php else: ?>
 					<a href="#" class="musica" data-estado="off">
 						<img src="{{url()}}/images/icono-audio.gif" alt="">
 					</a>
+					<?php endif; ?>
 				</div>
 				<div class="col-xs-2">
 					<p class="titulo text-center">
