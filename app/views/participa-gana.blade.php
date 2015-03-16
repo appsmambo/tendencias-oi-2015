@@ -54,12 +54,28 @@
 	<div class="content-catalogo">
 		<div class="sm-1"></div>
 		<div class="sm-2 text-center">
-			<a href="{{url()}}/extra-normal"><img src="{{url()}}/images/participa-gana/btn-catalogo-online.jpg" class="img-responsive center-block" alt=""></a>
+			<?php if (Agent::isMobile()): ?>
+			<a href="http://bit.ly/ripleytueliges" target="_blank">
+				<img src="{{url()}}/images/participa-gana/btn-catalogo-online.jpg" class="img-responsive center-block" alt="">
+			</a>
+			<?php else: ?>
+			<iframe width="650" height="389" src="//e.issuu.com/embed.html#0/11859323" frameborder="0" allowfullscreen></iframe>
+			<a href="{{url()}}/extra-normal">
+				<img src="{{url()}}/images/participa-gana/btn-catalogo-online.jpg" class="img-responsive center-block" alt="">
+			</a>
+			<?php endif; ?>
 			<p>
 				para ganar uno de los 10 vales de s./500 que sorteamos<br><br><br>
 				<span class="animate">¡Anímate a participar!</span><br>
-				<a href="{{url()}}/docs/terminos-y-condiciones.pdf" target="_blank" class="terminos">ver términos y condiciones</a>
-				
+				<?php if (Agent::isMobile()): ?>
+				<a href="{{url()}}/docs/terminos-y-condiciones.pdf" target="_blank" class="terminos">
+					ver términos y condiciones
+				</a>
+				<?php else: ?>
+				<a href="{{url()}}/docs/terminos-y-condiciones.pdf" target="_blank" class="terminos">
+					ver términos y condiciones
+				</a>
+				<?php endif; ?>
 			</p>
 		</div>
 	</div>
