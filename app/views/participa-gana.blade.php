@@ -9,7 +9,7 @@
 	<div class="content-plomo">
 		<div class="col-sm-1 text-center">
 			<div>
-				- 1 -
+				<img src="{{url()}}/images/1.png" alt="">
 				<p>
 					<span>Mira nuestro<br> catálogo</span>
 				</p>
@@ -18,7 +18,7 @@
 		</div>
 		<div class="col-sm-1 text-center">
 			<div>
-				- 2 -
+				<img src="{{url()}}/images/2.png" alt="">
 				<p>
 					<span>Escoge el look que<br/> más te guste</span>
 				</p>
@@ -26,7 +26,7 @@
 		</div>
 		<div class="col-sm-1 text-center">
 			<div>
-				- 3 -
+				<img src="{{url()}}/images/3.png" alt="">
 				<p>
 					<span>Tómale una <br> foto</span>
 				</p>
@@ -34,15 +34,15 @@
 		</div>
 		<div class="col-sm-1 text-center">
 			<div class="last">
-				- 4 -
+				<img src="{{url()}}/images/4.png" alt="">
 				<p>
 					<span>
-						Y compártelo en <br>    
+						Y compártelo en    
 						<img src="{{url()}}/images/participa-gana/twitter.png" alt="">
 						o 
 						<img src="{{url()}}/images/participa-gana/instagram.png" alt=""><br>
-						con el hashtag<br>
-						<img src="{{url()}}/images/participa-gana/tu-eliges.png" alt="">
+						con el hashtag
+						<strong>#tueliges</strong>
 					</span>
 				</p>
 			</div>
@@ -56,10 +56,10 @@
 		<div class="sm-2 text-center">
 			<a href="{{url()}}/extra-normal"><img src="{{url()}}/images/participa-gana/btn-catalogo-online.jpg" class="img-responsive center-block" alt=""></a>
 			<p>
-				para ganar uno de los 10 vales de s./500 que sorteamos<br>
-				¡Anímate a participar!<br><br>
-				ver <a href="{{url()}}/docs/terminos-y-condiciones.pdf" target="_blank"><strong>Términos y condiciones</strong></a>
-				<br>
+				para ganar uno de los 10 vales de s./500 que sorteamos<br><br><br>
+				<span class="animate">¡Anímate a participar!</span><br>
+				<a href="{{url()}}/docs/terminos-y-condiciones.pdf" target="_blank" class="terminos">ver términos y condiciones</a>
+				
 			</p>
 		</div>
 	</div>

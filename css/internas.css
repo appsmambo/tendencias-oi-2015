@@ -172,7 +172,6 @@ a:hover {
 	padding:4.5% 0 0 0;
 	height:200px;
 	border-right:1px solid #8d8d8d;
-	font-weight: bold;
 }
 .content-plomo .text-center div p{
 	display: table;
@@ -181,7 +180,8 @@ a:hover {
 	padding:0;
 	overflow: hidden;
 	width: 100%;
-	line-height: 26px;
+	font-size: 20px;
+	line-height: 24px;
 }
 .content-plomo .text-center div p span{
 	display: table-cell;
@@ -202,9 +202,17 @@ a:hover {
 .content-catalogo p{
 	margin:3% 0;
 	padding:0;
-	font-size:25px;
-	line-height: 40px;
+	font-size:28px;
+	line-height: 33px;
 	font-weight: bold;
+}
+.content-catalogo p .animate{
+	font-size:32px;
+	text-transform: uppercase;
+}
+.content-catalogo a.terminos{
+	font-size:15px;
+	font-weight:normal;
 }
 .video-descripcion{
 	text-transform: uppercase;
