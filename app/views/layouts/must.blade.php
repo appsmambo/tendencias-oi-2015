@@ -74,6 +74,7 @@
 		</script>
 		<script src="{{url()}}/scripts/jquery.min.js"></script>
 		<script src="{{url()}}/scripts/tendencias/bootstrap.min.js"></script>
+		<script src="{{url()}}/scripts/must.js"></script>
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -150,21 +151,24 @@
 						<img src="{{url()}}/images/logo-must.png" alt="" class="center-block img-responsive">
 					</div>
 					<div class="col-sm-1">
-						<a href="{{url()}}/must/camisa-blanca"><img src="{{url()}}/images/camisas-blancas.jpg" alt="" class="center-block img-responsive prenda"></a>
+						<a href="{{url()}}/must/camisa-blanca#prendas"><img src="{{url()}}/images/camisas-blancas.jpg" alt="" class="center-block img-responsive prenda"></a>
 					</div>
 					<div class="col-sm-1">
-						<a href="{{url()}}/must/capas-livianas"><img src="{{url()}}/images/capas-livianas.jpg" alt="" class="center-block img-responsive prenda"></a>
+						<a href="{{url()}}/must/capas-livianas#prendas"><img src="{{url()}}/images/capas-livianas.jpg" alt="" class="center-block img-responsive prenda"></a>
 					</div>
 					<div class="col-sm-1">
-						<a href="{{url()}}/must/casacas-livianas"><img src="{{url()}}/images/casacas-livianas.jpg" alt="" class="center-block img-responsive prenda"></a>
+						<a href="{{url()}}/must/casacas-livianas#prendas"><img src="{{url()}}/images/casacas-livianas.jpg" alt="" class="center-block img-responsive prenda"></a>
 					</div>
 					<div class="col-sm-1">
-						<a href="{{url()}}/must/cuello-tortuga"><img src="{{url()}}/images/cuello-tortuga.jpg" alt="" class="center-block img-responsive prenda"></a>
+						<a href="{{url()}}/must/cuello-tortuga#prendas"><img src="{{url()}}/images/cuello-tortuga.jpg" alt="" class="center-block img-responsive prenda"></a>
 					</div>
 				</div>	
 			</div>
 		</section>
-		<section class="container-fluid">
+		<p>
+			<br>
+		</p>
+		<section class="container-fluid" id="prendas">
 			@yield('content')
 		</section>
 		<div class="hidden">

@@ -239,6 +239,9 @@ a:hover {
 	}
 }
 @media (max-width:767px) {
+	.menu img {
+		width:75%
+	}
 	.space-must{
 		display:none;
 	}
@@ -353,5 +356,15 @@ a:hover {
 @media (max-width:377px) {
 	.titulo{
 		padding-top: 6%;
+	}
+	.menu img {
+		width:55%!important
+	}
+	header {
+		height:45px
+	}
+	header a,
+	.titulo {
+		line-height:45px
 	}
 }
