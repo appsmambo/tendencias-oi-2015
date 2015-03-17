@@ -149,10 +149,7 @@
 					</div>
 				</div>	
 			</div>
-		</section>
-		<p>
-			<br>
-		</p>
+		</section>	
 		<section class="container-fluid" id="prendas">
 			@yield('content')
 		</section>

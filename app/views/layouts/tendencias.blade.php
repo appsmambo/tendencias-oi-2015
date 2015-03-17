@@ -222,14 +222,18 @@
 		<section class="container-fluid tu-eliges">
 			<img src="{{url()}}/images/tu-eliges.jpg" alt="" class="center-block">
 		</section>
+		<div class="bloque-imprescindibles hidden-xs">
+			<a href="#" class="cerrar-tendencias">
+				<img src="{{url()}}/images/btn-minimiza.png" alt="">
+			</a>
+			<a href="{{url()}}/imprescindibles">
+				<img src="{{url()}}/images/imprescindible.png" alt="" class="imprescindibles img-responsive pull-right">
+			</a>
+		</div>
 		<section class="container-fluid bloque-tendencias">
-			<div class="bloque-imprescindibles">
-				<a href="#" class="cerrar-tendencias">
-					<img src="{{url()}}/images/btn-close.png" alt="">
-				</a>
+			<div class="bloque-imprescindibles visible-xs">
 				<a href="{{url()}}/imprescindibles">
-					<img src="{{url()}}/images/imprescindible.png" alt="" class="img-responsive pull-right hidden-xs">
-					<img src="{{url()}}/images/imprescindible-mobile.png" alt="" class="img-responsive pull-right visible-xs">
+					<img src="{{url()}}/images/imprescindible-mobile.png" alt="" class="img-responsive pull-right">
 				</a>
 			</div>
 			@yield('content')

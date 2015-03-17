@@ -1,4 +1,14 @@
 @font-face {
+	font-family:'HelveticaNeue';
+	src:url('../fonts/HelveticaNeue-MediumCond.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/HelveticaNeue-MediumCond.otf') format('opentype'),
+		url('../fonts/HelveticaNeue-MediumCond.woff') format('woff'),
+		url('../fonts/HelveticaNeue-MediumCond.ttf')  format('truetype'),
+		url('../fonts/HelveticaNeue-MediumCond.svg#HelveticaNeue-MediumCond') format('svg');
+	font-weight:normal;
+	font-style:normal;
+}
+@font-face {
 	font-family:'helveticacy';
 	src:url('../fonts/helveticacy.eot');
 	src:local('☺'), url('../fonts/helveticacy.woff') format('woff'), url('../fonts/helveticacy.ttf') format('truetype'), url('../fonts/helveticacy.svg') format('svg');
@@ -13,7 +23,7 @@
 	font-style:normal
 }
 body {
-	overflow-x:hidden
+	font-family:'HelveticaNeue'
 }
 a {
 	display:block;
@@ -42,7 +52,7 @@ header a {
 	line-height:68px
 }
 .slider-tendencias {
-	border-bottom:8px solid #000
+	
 }
 .tu-eliges {
 	margin-bottom:52px;
@@ -127,7 +137,7 @@ header a {
 .bloque-imprescindibles{
     position:absolute;
     right:0;
-    top:-70px;
+    top:70%;
 	z-index:10
 }
 .bloque-imprescindibles img{
@@ -223,9 +233,6 @@ header a {
 	.bloque-imprescindibles img{
 		width: 50%
 	}
-	.cerrar-tendencias{
-		display: none;
-	}
 }
 @media (max-width:740px) {
 	.titulo{
@@ -254,10 +261,10 @@ header a {
 }
 @media (max-width:470px) {
 	.bloque-imprescindibles{
-		top:20px;
+		top:20px!important
 	}
 	.bloque-imprescindibles img{
-		width: 25%
+		width:25%!important
 	}
 	p.info img{
 		width:69%;

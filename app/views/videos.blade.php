@@ -14,7 +14,7 @@
             <a class="fancybox-media" href="http://www.youtube.com/watch?v=M5cyWJbJz50&spfreload=10"><img src="{{url()}}/images/videos/2.jpg" alt="" class="center-block img-responsive"></a>
 			<div class="visible-xs video-descripcion">
 				<p class="parrafo-1">
-					My Life Ripley - Otono Invierno 2015 
+					My Life Ripley - Otoño Invierno 2015 
 				</p>
 				<p>//</p>
 				<p class="parrafo-2">COMERCIAL</p>
@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-sm-3 video-descripcion">
                     <p class="parrafo-1">
-                        My Life Ripley - Otono Invierno 2015 
+                        My Life Ripley - Otoño Invierno 2015 
                     </p>
                     <p>//</p>
                     <p class="parrafo-2">COMERCIAL</p>
