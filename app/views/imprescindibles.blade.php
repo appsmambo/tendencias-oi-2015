@@ -4,7 +4,8 @@
     <div class="col-sm-2">
         <div class="row">
             <div class="col-sm-2">
-				<img src="{{url()}}/images/imprescindibles/imprescindibles.jpg" alt="" class="center-block img-responsive prenda">
+				<img src="{{url()}}/images/imprescindibles/imprescindibles.jpg" alt="" class="center-block img-responsive prenda hidden-xs">
+				<img src="{{url()}}/images/imprescindibles/imprescindibles-mobile.jpg" alt="" class="center-block img-responsive prenda visible-xs">
             </div>
             <div class="col-sm-2">
 				<div class="bloque-prenda">

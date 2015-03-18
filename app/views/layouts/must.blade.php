@@ -84,6 +84,14 @@
 					TENDENCIAS
 				</a>
 				<br>
+				<a href="{{url()}}/imprescindibles">
+					INPRESCINDIBLES
+				</a>
+				<br>
+				<a href="{{url()}}/must">
+					MUST
+				</a>
+				<br>
 				<a href="{{url()}}/videos">
 					VIDEO
 				</a>
@@ -133,7 +141,9 @@
 			<div class="row">
 				<div class="menu-must">
 					<div class="logo-must">
+						<br>
 						<img src="{{url()}}/images/logo-must.png" alt="" class="center-block img-responsive">
+						<br>
 					</div>
 					<div class="col-sm-1">
 						<a href="{{url()}}/must/camisa-blanca#prendas"><img src="{{url()}}/images/camisas-blancas.jpg" alt="" class="center-block img-responsive prenda"></a>

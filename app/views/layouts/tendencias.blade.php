@@ -86,6 +86,14 @@
 					TENDENCIAS
 				</a>
 				<br>
+				<a href="{{url()}}/imprescindibles">
+					INPRESCINDIBLES
+				</a>
+				<br>
+				<a href="{{url()}}/must">
+					MUST
+				</a>
+				<br>
 				<a href="{{url()}}/videos">
 					VIDEO
 				</a>
