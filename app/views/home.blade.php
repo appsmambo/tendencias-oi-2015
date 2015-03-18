@@ -67,47 +67,82 @@
 		</script>
 	</head>
 	<body>
-		<nav class="navbar navbar-default visible-xs">
-			<div class="container-fluid">
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="{{url()}}">Tendencias Ripley 2015 #tueliges</a>
-				</div>
-				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-					<ul class="nav navbar-nav">
-						<li class="active"><a href="{{url()}}">Home <span class="sr-only">(current)</span></a></li>
-						<li><a href="{{url()}}/extra-normal">Tendencias</a></li>
-						<li><a href="#">Video</a></li>
-						<li><a href="{{url()}}/concurso">Concurso</a></li>
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Síguenos <span class="caret"></span></a>
-							<ul class="dropdown-menu" role="menu">
-								<li><a href="https://twitter.com/ripleyenperu" target="_blank">Twitter</a></li>
-								<li><a href="https://www.facebook.com/RipleyPeru" target="_blank">Facebook</a></li>
-							</ul>
-						</li>
-					</ul>
-				</div><!-- /.navbar-collapse -->
-			</div><!-- /.container-fluid -->
-		</nav>
-		
+		<section class="bloque-menu" style="display:none">
+			<a href="#" class="cerrar">
+				<img src="{{url()}}/images/btn-close.png" alt="">
+			</a>
+			<p class="text-center">
+				<a href="{{url()}}">
+					HOME
+				</a>
+				<br>
+				<a href="{{url()}}/extra-normal">
+					TENDENCIAS
+				</a>
+				<br>
+				<a href="{{url()}}/imprescindibles">
+					INPRESCINDIBLES
+				</a>
+				<br>
+				<a href="{{url()}}/must">
+					MUST
+				</a>
+				<br>
+				<a href="{{url()}}/videos">
+					VIDEO
+				</a>
+				<br>
+				<a href="{{url()}}/concurso">
+					CONCURSO
+				</a>
+			</p>
+			<hr>
+			<p class="redes text-center">
+				<a href="https://twitter.com/ripleyenperu" target="_blank">
+					<img src="{{url()}}/images/twitter.png" alt="">
+				</a>
+				<a href="https://www.facebook.com/RipleyPeru" target="_blank">
+					<img src="{{url()}}/images/facebook.png" alt="">
+				</a>
+			</p>
+		</section>
 		<div class="jumbotron vertical-center">
 			<?php $class = (Agent::isMobile()) ? 'container' : 'container-fluid' ?>
 			<section class="<?php echo $class ?> children">
+				<header class="container visible-xs">
+					<section class="row">
+						<div class="col-xs-1 no-border">
+							<?php if (Agent::isMobile()): ?>
+							<a href="#" class="musica" data-estado="on">
+								<img src="{{url()}}/images/icono-audio.png" alt="">
+							</a>
+							<?php else: ?>
+							<a href="#" class="musica" data-estado="off">
+								<img src="{{url()}}/images/icono-audio.gif" alt="">
+							</a>
+							<?php endif; ?>
+						</div>
+						<div class="col-xs-5 no-border">
+							<a href="{{url()}}">
+								<img src="{{url()}}/images/titulo-tendencias.jpg" class="img-responsive center-block">
+							</a>
+						</div>
+						<div class="col-xs-1 no-border">
+							<a href="#" class="menu pull-right text-right" data-estado="off">
+								<img src="{{url()}}/images/icono-menu.png" alt="">
+							</a>
+						</div>
+					</section>
+				</header>
 				<div class="row">
 					<div class="col-sm-2">
 						<?php if (Agent::isMobile()): ?>
 						<a href="#" class="musica" data-estado="on">
-							<img src="{{url()}}/images/icono-audio.png" alt="" class="img-responsive">
+							<img src="{{url()}}/images/icono-audio.png" alt="" class="img-responsive hidden-xs">
 						</a>
 						<?php else: ?>
 						<a href="#" class="musica" data-estado="off">
-							<img src="{{url()}}/images/icono-audio.gif" alt="" class="img-responsive">
+							<img src="{{url()}}/images/icono-audio.gif" alt="" class="img-responsive hidden-xs">
 						</a>
 						<?php endif; ?>
 						<img src="{{url()}}/images/home/elige-ser-tu-misma.jpg" class="img-responsive center-block" alt="">
@@ -117,7 +152,7 @@
 							<img src="{{url()}}/images/home/extra-normal.jpg" class="img-responsive center-block" alt="">
 						</a>
 					</div>
-					<div class="col-sm-1">
+					<div class="col-sm-1 hidden-xs">
 						<img src="{{url()}}/images/home/tendecias-2015.jpg" class="img-responsive center-block todo-ancho" alt="">
 					</div>
 					<div class="col-sm-2 hidden-xs container-menu">
@@ -132,21 +167,20 @@
 									TENDENCIAS
 								</a>
 								<br>
+								<a href="{{url()}}/imprescindibles">
+									INPRESCINDIBLES
+								</a>
+								<br>
+								<a href="{{url()}}/must">
+									MUST
+								</a>
+								<br>
 								<a href="{{url()}}/videos">
 									VIDEO
 								</a>
 								<br>
 								<a href="{{url()}}/concurso">
 									CONCURSO
-								</a>
-							</p>
-							<hr>
-							<p class="redes text-center">
-								<a href="https://twitter.com/ripleyenperu" target="_blank">
-									<img src="{{url()}}/images/twitter.png" alt="">
-								</a>
-								<a href="https://www.facebook.com/RipleyPeru" target="_blank">
-									<img src="{{url()}}/images/facebook.png" alt="">
 								</a>
 							</p>
 						</div>
@@ -176,6 +210,23 @@
 						<img src="{{url()}}/images/home/tu-eliges.jpg" class="img-responsive center-block" alt="">
 					</div>
 				</div>
+				<footer>
+					<section class="row">
+						<div class="col-xs-3 no-border">
+							<p>
+								<a href="https://twitter.com/ripleyenperu" target="_blank">
+									<img src="{{url()}}/images/twitter-footer.png" alt="">
+								</a>
+								<a href="https://www.facebook.com/RipleyPeru" target="_blank">
+									<img src="{{url()}}/images/facebook-footer.png" alt="">
+								</a>
+							</p>
+						</div>
+						<div class="col-xs-3 col-xs-offset-1 no-border">
+							<img src="{{url()}}/images/logo-ripley.png" class="img-responsive pull-right logo-ripley">
+						</div>
+					</section>
+				</footer>
 			</section>
 		</div>
 		<div class="hidden">

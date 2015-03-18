@@ -11,10 +11,14 @@ html, body {
 body {
 	background-color:#fff
 }
+footer {
+	background-color:#000;
+	height:40px
+}
 a {
 	color:#000;
 	display:block;
-	font-size:23px;
+	font-size:22px;
 	text-decoration:none
 }
 a:focus,
@@ -55,13 +59,60 @@ a.hover:hover {
 	font-family:'helveticacy';
 	margin-bottom:7px
 }
-.container-menu p.redes a {
+.no-border {
+	border-bottom:none!important
+}
+footer a {
+	display:inline-block;
+	line-height:38px;
+	margin-left:15px
+}
+footer .logo-ripley {
+	margin-right:15px
+}
+.musica,
+.menu {
+	display:inline-block;
+	margin:0 15px
+}
+.titulo {
+	font-family:'helveticacy';
+	font-size:24px;
+	line-height:68px;
+	margin:0;
+	padding-top:1%
+}
+.bloque-menu {
+	background-color:#fff;
+	height:auto;
+	padding:30px 0 0;
+	position:absolute;
+	right:0;
+	top:0;
+	width:280px;
+	letter-spacing: 3px;
+	z-index:999
+}
+.bloque-menu a {
+	color:#000;
+	display:inline-block;
+	font-family:'helveticacy';
+	font-size:23px;
+	margin-bottom:7px;
+	text-decoration:none
+}
+.bloque-menu a:focus,
+.bloque-menu a:hover {
+	color:#000;
+	text-decoration:none
+}
+.bloque-menu p.redes a {
 	margin-right:30px
 }
-.container-menu p.redes a:last-child {
+.bloque-menu p.redes a:last-child {
 	margin-right:0
 }
-.container-menu hr {
+.bloque-menu hr {
 	background-color:transparent;
 	background-image:url('../images/linea.png');
 	background-repeat:repeat-x;
@@ -69,7 +120,12 @@ a.hover:hover {
 	height:1px;
 	margin-bottom:18px;
 	margin-top:10px;
-	width:65%
+	width:70%
+}
+.cerrar {
+	position:absolute;
+	right:15px;
+	top:15px
 }
 .jumbotron.vertical-center {
 	margin-bottom: 0; /* Remove the default bottom margin of .jumbotron */
@@ -116,9 +172,32 @@ a.hover:hover {
 	justify-content : center;
 }
 
-@media (max-width:376px) {
+@media (max-width:414px) {
 	.todo-ancho {
 		width:100%
+	}
+	header {
+		height:30px
+	}
+	header a,
+	.titulo {
+		line-height:30px
+	}
+	header .musica {
+		left:5px;
+		margin:0!important;
+		top:2px
+	}
+	.musica, .menu {
+		margin:0 5px!important
+	}
+	.titulo {
+		font-size:12px!important;
+		margin-left:-15px;
+		white-space:nowrap!important
+	}
+	.menu img {
+		width:55%!important
 	}
 }
 @media (max-width:767px) {
@@ -135,54 +214,66 @@ a.hover:hover {
 	.row > [class*='col-'] {
 		border-bottom:1px solid #000
 	}
-	.navbar-nav>li>a, .navbar-default .navbar-nav .open .dropdown-menu>li>a{
-		font-size: 14px;
+	.titulo {
+		font-size:13px
 	}
-	
-}
-@media (max-width:400px) {
-	.navbar-brand{
-		font-size: 16px;
-	}
-}
-
-@media (min-width:768px) and (max-width:991px) {
-	.container-menu div {
-		padding-top:4%
-	}
-	.container-menu a {
-		font-size:14px;
-		margin-bottom:0
-	}
-	.container-menu p.redes {
-		margin-top:7px
-	}
-	.container-menu p.redes a {
-		margin-right:10px
-	}
-	.container-menu p.redes img {
+	.menu img {
 		width:75%
 	}
-	hr {
+	.tu-eliges {
+		margin-bottom:17px;
+		margin-top:34px
+	}
+	.info {
+		font-size:22px;
+		line-height:24px;
+		padding:20px 10px
+	}
+	a.hover {
+		opacity:1
+	}
+	.bloque-imprescindibles{
+		top:0;
+	}
+	.bloque-imprescindibles img{
+		width: 50%
+	}
+}
+@media (min-width:768px) and (max-width:991px) {
+	.container-menu div {
+		padding-top:2%
+	}
+	.container-menu br {
 		display:none
+	}
+	.container-menu a {
+		display:block;
+		font-size:13px;
+		line-height:24px;
+		margin-bottom:0
 	}
 }
 
 @media (min-width:992px) and (max-width:1024px) {
 	.container-menu div {
-		padding-top:6%
+		padding-top:4%
+	}
+	.container-menu br {
+		display:none
 	}
 	.container-menu a {
-		font-size:18px;
+		display:block;
+		font-size:17px;
+		line-height:30px;
 		margin-bottom:0
 	}
-	.container-menu p.redes {
-		margin-top:7px
+}
+
+@media (min-width:1670px) {
+	.container-menu div {
+		padding-top:11%
 	}
-	.container-menu p.redes a {
-		margin-right:10px
-	}
-	.container-menu p.redes img {
-		width:80%
+	.container-menu a {
+		font-size:27px;
 	}
 }
