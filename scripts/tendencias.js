@@ -15,7 +15,7 @@ $(document).ready(function(){
 		pager:false
 	});
 	$('.cerrar-tendencias').click(function() {
-		$('.imprescindibles').attr('src', urlBase + '/images/imprescindible-mobile.png');
+		$('.imprescindibles').attr('src', urlBase + '/images/imprescindible-mobile.png').css('width', '45%');
 		$(this).hide();
 		//$('.bloque-imprescindibles').hide();
 		return false;
@@ -23,7 +23,11 @@ $(document).ready(function(){
 });
 $(window).load(function() {
 	var alto = $(document).height();
-	var altoMaximo = parseInt(alto * 0.19);
+	var altoMaximo;
+	if (isMobile)
+		altoMaximo = parseInt(alto * 0.12);
+	else
+		altoMaximo = parseInt(alto * 0.15);
 	$(document).scroll(function() {
 		if ($(document).scrollTop() > altoMaximo)
 			$('.bloque-imprescindibles').css('position', 'fixed');

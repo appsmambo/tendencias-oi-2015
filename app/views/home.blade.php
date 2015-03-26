@@ -56,6 +56,7 @@
 		<script src="{{url()}}/scripts/fancybox/jquery.fancybox.js"></script>
         <script src="{{url()}}/scripts/fancybox/helpers/jquery.fancybox-media.js"></script>
 		<script src="{{url()}}/scripts/scripts.js"></script>
+		<script src="{{url()}}/scripts/home.js"></script>
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -158,7 +159,7 @@
 					<div class="col-sm-2 hidden-xs container-menu">
 						<img src="{{url()}}/images/home/menu.png" class="img-responsive center-block" alt="">
 						<div>
-							<p class="text-center">
+							<p class="text-right">
 								<a href="{{url()}}">
 									HOME
 								</a>
@@ -213,14 +214,12 @@
 				<footer>
 					<section class="row">
 						<div class="col-xs-3 no-border">
-							<p>
-								<a href="https://twitter.com/ripleyenperu" target="_blank">
-									<img src="{{url()}}/images/twitter-footer.png" alt="">
-								</a>
-								<a href="https://www.facebook.com/RipleyPeru" target="_blank">
-									<img src="{{url()}}/images/facebook-footer.png" alt="">
-								</a>
-							</p>
+							<a href="https://twitter.com/ripleyenperu" target="_blank">
+								<img src="{{url()}}/images/twitter-footer.png" alt="">
+							</a>
+							<a href="https://www.facebook.com/RipleyPeru" target="_blank">
+								<img src="{{url()}}/images/facebook-footer.png" alt="">
+							</a>
 						</div>
 						<div class="col-xs-3 col-xs-offset-1 no-border">
 							<img src="{{url()}}/images/logo-ripley.png" class="img-responsive pull-right logo-ripley">

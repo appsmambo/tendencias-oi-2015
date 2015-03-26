@@ -28,6 +28,19 @@ body {
 header a {
 	line-height: 68px;
 }
+footer {
+	background-color:#000;
+	height:40px
+}
+footer a {
+	display:inline-block;
+	line-height:38px;
+	margin-left:15px
+}
+footer .logo-ripley {
+	margin-right:15px;
+	margin-top:6px
+}
 a {
 	display:block;
 	color:#000;
@@ -208,10 +221,10 @@ a:hover {
 	line-height: 32px;
 }
 .content-catalogo{
-	margin:4% 0 0 0;
+	margin:35px 0 0 0;
 }
 .content-catalogo p{
-	margin:3% 0;
+	margin:14px 0;
 	padding:0;
 	font-size:28px;
 	line-height: 33px;
@@ -230,6 +243,16 @@ a:hover {
 }
 .catalo-enlace{
 	display:inline-block;
+}
+@media (max-width:320px) {
+	.logo-ripley {
+		margin-right:5px!important
+	}
+}
+@media (max-width:414px) {
+	.logo-ripley {
+		margin-top:4px
+	}
 }
 @media (max-width:920px) {
 	.titulo{

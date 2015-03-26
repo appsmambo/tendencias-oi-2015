@@ -25,6 +25,19 @@
 body {
 	font-family:'HelveticaNeue'
 }
+footer {
+	background-color:#000;
+	height:40px
+}
+footer a {
+	display:inline-block;
+	line-height:38px;
+	margin-left:15px
+}
+footer .logo-ripley {
+	margin-right:15px;
+	margin-top:6px
+}
 a {
 	display:block;
 	color:#000;
@@ -137,7 +150,7 @@ header a {
 .bloque-imprescindibles{
     position:absolute;
     right:0;
-    top:70%;
+    top:68%;
 	z-index:10
 }
 .bloque-imprescindibles img{
@@ -174,6 +187,14 @@ header a {
 }
 .prenda{
 	width:100%
+}
+@media (max-width:320px) {
+	footer a {
+		margin-left:5px!important
+	}
+	.logo-ripley {
+		margin-right:5px!important
+	}
 }
 @media (max-width:376px) {
 	header {

@@ -64,7 +64,7 @@
 			</a>
 			<?php endif; ?>
 			<p>
-				para ganar uno de los 10 vales de s./500 que sorteamos<br><br><br>
+				para ganar uno de los 10 vales de s./500 que sorteamos<br>
 				<span class="animate">¡Anímate a participar!</span><br>
 				<?php if (Agent::isMobile()): ?>
 				<a href="{{url()}}/docs/terminos-y-condiciones.pdf" target="_blank" class="terminos">
@@ -75,6 +75,7 @@
 					ver términos y condiciones
 				</a>
 				<?php endif; ?>
+				<br>
 			</p>
 		</div>
 	</div>

@@ -38,6 +38,8 @@
 		<script src="{{url()}}/scripts/queryloader2.min.js"></script>
 		<script type="text/javascript">
 			var urlBase = "{{url()}}";
+			var isMobile = '{{Agent::isMobile()}}';
+			console.log(isMobile);
 			window.addEventListener('DOMContentLoaded', function () {
 				new QueryLoader2(document.querySelector("body"), {
 					barColor: "#fff",
@@ -48,11 +50,11 @@
 					maxTime: 15000,
 					fadeOutTime: 1000,
 					onComplete: function () {
-						<?php if (!Agent::isMobile()): ?>
+						@if (!Agent::isMobile())
 						var musica = document.getElementById("musica");
 						musica.volume = 0.2;
 						musica.play();
-						<?php endif; ?>
+						@endif
 					}
 				});
 			});
@@ -246,6 +248,21 @@
 			</div>
 			@yield('content')
 		</section>
+		<footer>
+			<section class="row">
+				<div class="col-xs-2">
+					<a href="https://twitter.com/ripleyenperu" target="_blank">
+						<img src="{{url()}}/images/twitter-footer.png" alt="">
+					</a>
+					<a href="https://www.facebook.com/RipleyPeru" target="_blank">
+						<img src="{{url()}}/images/facebook-footer.png" alt="">
+					</a>
+				</div>
+				<div class="col-xs-2">
+					<img src="{{url()}}/images/logo-ripley.png" class="img-responsive pull-right logo-ripley">
+				</div>
+			</section>
+		</footer>
 		<div class="hidden">
 			<audio id="musica" loop="loop" controls="controls">
 				<source src="{{url()}}/audio/musica.mp3" />

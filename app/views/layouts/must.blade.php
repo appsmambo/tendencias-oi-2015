@@ -163,6 +163,21 @@
 		<section class="container-fluid" id="prendas">
 			@yield('content')
 		</section>
+		<footer>
+			<section class="row">
+				<div class="col-xs-2">
+					<a href="https://twitter.com/ripleyenperu" target="_blank">
+						<img src="{{url()}}/images/twitter-footer.png" alt="">
+					</a>
+					<a href="https://www.facebook.com/RipleyPeru" target="_blank">
+						<img src="{{url()}}/images/facebook-footer.png" alt="">
+					</a>
+				</div>
+				<div class="col-xs-2">
+					<img src="{{url()}}/images/logo-ripley.png" class="img-responsive pull-right logo-ripley">
+				</div>
+			</section>
+		</footer>
 		<div class="hidden">
 			<audio id="musica" loop="loop" controls="controls">
 				<source src="{{url()}}/audio/musica.mp3" />
